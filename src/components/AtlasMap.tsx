@@ -42,7 +42,7 @@ function columns(rows: Place[]): FeatureCollection<Polygon> {
         r = 0.00045;
       return {
         type: "Feature",
-        properties: { ...p, height: Math.max(30, (p.temp_c - 35) * 75) },
+        properties: { ...p, height: Math.max(30, p.risk * 8) },
         geometry: {
           type: "Polygon",
           coordinates: [
@@ -343,6 +343,9 @@ export const AtlasMap = forwardRef<
     });
     for (const layer of ["nodes", "columns", "green"]) {
       m.on("click", layer, (e) => {
+        // A clustered marker takes priority over overlapping park circles.
+        if (m.queryRenderedFeatures(e.point, { layers: ["clusters"] }).length)
+          return;
         const p = latest.current.rows.find(
           (p) => p.id === e.features?.[0]?.properties?.id,
         );

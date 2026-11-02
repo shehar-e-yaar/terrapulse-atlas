@@ -9,14 +9,18 @@
 - Six distinct copilot questions exercised in the browser: Shahdara connection, industrial/canal comparison, canopy below 10%, UVAS, temperature above 43°C and temperature below 38°C.
 - Inspector flip and source record, 3D layer toggle, mobile copilot, and guided-story pause/next interactions verified.
 - 390 × 844 layout checked for horizontal overflow; none found.
-- 13 automated tests passed; production build passed before final camera/accessibility polish.
+- 13 automated tests passed; production builds passed, including the bundled MapLibre worker and GitHub Pages base path.
 - Local ETL validation passed for all 797 records. Python files passed syntax compilation.
 - Dependency audit after upgrades reported zero known vulnerabilities.
-- README, submission write-up, 120-second script, AWS deployment guide, optional Bedrock handler, S3/Iceberg ETL, Amplify configuration and GitHub workflows included.
+- README, submission write-up, 120-second script, AWS deployment guide, optional Bedrock handler, S3/Iceberg ETL, Amplify configuration and inactive GitHub workflow templates included.
 
 ## Deployment status
 
-GitHub account `shehar-e-yaar` is authenticated. Public repository creation and deployment have not yet been verified. Links in the README and submission write-up are the intended destinations, not evidence of a successful deployment. This section must be updated after publishing succeeds.
+- Public source repository: https://github.com/shehar-e-yaar/terrapulse-atlas
+- Public map: https://shehar-e-yaar.github.io/terrapulse-atlas/
+- GitHub Pages reported `built` from the `gh-pages` branch on November 2, 2026. The public app was opened successfully and the Shahdara query returned its actual computed connection and citations.
+- Workflow publication was refused because the current GitHub sign-in lacks the `workflow` scope. Templates are retained under `deployment/workflow-templates`; they are not active automation. Static Pages hosting uses the existing permitted branch-based publishing path.
+- Amazon S3 public metadata is the verified AWS data service integration. Amazon Location and Amplify are optional implementations/configuration, not deployed account-backed services.
 
 ## Remaining user/account work
 
