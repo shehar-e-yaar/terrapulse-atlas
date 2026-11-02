@@ -1,0 +1,18 @@
+{
+  "service": "Amazon S3",
+  "bucket": "sentinel-cogs",
+  "region": "us-west-2",
+  "source_url": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/43/R/DQ/2024/6/S2A_43RDQ_20240605_0_L2A/S2A_43RDQ_20240605_0_L2A.json",
+  "scene_id": "S2A_43RDQ_20240605_0_L2A",
+  "datetime": "2024-06-05T05:50:30.756000Z",
+  "cloud_cover_pct": 98.116308,
+  "bbox": [
+    73.94511365907094,
+    30.640635895864268,
+    75.10291358823673,
+    31.635496614533505
+  ],
+  "purpose": "Real satellite scene metadata covering Lahore. Optical imagery context only; no thermal or canopy values derived.",
+  "license_url": "https://registry.opendata.aws/sentinel-2-l2a-cogs/",
+  "verification": "Downloaded directly from public Amazon S3 by pipeline/fetch_aws_context.py"
+}
