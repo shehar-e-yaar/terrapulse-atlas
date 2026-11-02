@@ -1,0 +1,9650 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-02T07:05:51Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 110862294,
+  "lat": 31.5537450,
+  "lon": 74.3141492,
+  "tags": {
+    "name": "مزنگ",
+    "name:ar": "مزنق",
+    "name:de": "Mozang",
+    "name:en": "Mozang",
+    "name:es": "Mozang",
+    "name:hi": "मोज़ंग",
+    "name:ur": "مزنگ",
+    "place": "suburb",
+    "wikidata": "Q15260129",
+    "wikipedia": "ur:مزنگ چونگی"
+  }
+},
+{
+  "type": "node",
+  "id": 270894001,
+  "lat": 31.4753652,
+  "lon": 74.3841578,
+  "tags": {
+    "is_in": "DHA LHR",
+    "name": "Charr",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 271060147,
+  "lat": 31.4787019,
+  "lon": 74.3674921,
+  "tags": {
+    "is_in": "Lahore, Punjab, Pakistan",
+    "name": "فاروق کالونی",
+    "name:en": "Farooq Colony",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 271060220,
+  "lat": 31.4747044,
+  "lon": 74.3671908,
+  "tags": {
+    "is_in": "Lahore, Punjab, Pakistan",
+    "name": "Model Colony",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 271072086,
+  "lat": 31.4861020,
+  "lon": 74.3808302,
+  "tags": {
+    "created_by": "Potlatch 0.9c",
+    "is_in": "Lahore, Punjab, Pakistan",
+    "name": "Iqbal Park",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 271105877,
+  "lat": 31.4842214,
+  "lon": 74.3735808,
+  "tags": {
+    "is_in": "Lahore, Punjab, Pakistan",
+    "name": "Eden Cottages",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 271110610,
+  "lat": 31.4851174,
+  "lon": 74.3796679,
+  "tags": {
+    "is_in": "Lahore, Punjab, Pakistan",
+    "name": "Fort Villa",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 271166667,
+  "lat": 31.4933113,
+  "lon": 74.3848557,
+  "tags": {
+    "created_by": "Potlatch 0.9c",
+    "is_in": "Lahore, Punjab, Pakistan",
+    "name": "Askari Flats",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 271282909,
+  "lat": 31.4899206,
+  "lon": 74.4028287,
+  "tags": {
+    "created_by": "Potlatch 0.9c",
+    "is_in": "Lahore",
+    "name": "Keer",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 271286878,
+  "lat": 31.4826253,
+  "lon": 74.3703932,
+  "tags": {
+    "created_by": "Potlatch 0.9c",
+    "is_in": "Lahore, Punjab, Pakistan",
+    "name": "Qadri Colony",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 271393672,
+  "lat": 31.4799452,
+  "lon": 74.4128627,
+  "tags": {
+    "created_by": "Potlatch 0.9c",
+    "is_in": "Lahore",
+    "name": "Chung Khurad",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 271739587,
+  "lat": 31.4588759,
+  "lon": 74.3743069,
+  "tags": {
+    "created_by": "Potlatch 0.10e",
+    "is_in": "Lahore, Punjab, Pakistan",
+    "name": "Punjab Cooperative Housing Society",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 271853824,
+  "lat": 31.4685874,
+  "lon": 74.4293115,
+  "tags": {
+    "created_by": "Potlatch 0.9c",
+    "is_in": "Lahore",
+    "name": "Sultan Colony",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 272330038,
+  "lat": 31.4627642,
+  "lon": 74.3888555,
+  "tags": {
+    "created_by": "Potlatch 0.9c",
+    "name": "Sec FF Ph 4",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 272428081,
+  "lat": 31.5615919,
+  "lon": 74.3354559,
+  "tags": {
+    "name": "سول لائن",
+    "name:en": "Civil Lines",
+    "name:hi": "सिविल लाइंस",
+    "name:ur": "سول لائن",
+    "place": "town"
+  }
+},
+{
+  "type": "node",
+  "id": 272431538,
+  "lat": 31.5479374,
+  "lon": 74.3924660,
+  "tags": {
+    "name": "عسکری ویلاز",
+    "name:en": "Askari Villas",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 272577946,
+  "lat": 31.5762283,
+  "lon": 74.4927527,
+  "tags": {
+    "is_in": "Lahore",
+    "name": "جلوّ",
+    "name:en": "Jallo",
+    "name:hi": "जलो",
+    "name:ml": "ജല്ലോ",
+    "name:ur": "جلوّ",
+    "place": "village",
+    "population": "12000"
+  }
+},
+{
+  "type": "node",
+  "id": 273168869,
+  "lat": 31.4667370,
+  "lon": 74.3567583,
+  "tags": {
+    "name": "امر سدھو",
+    "name:en": "Amar Sidhu",
+    "name:hi": "अमर सिद्धू",
+    "name:ur": "امر سدھو",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 273463268,
+  "lat": 31.4915401,
+  "lon": 74.3927693,
+  "tags": {
+    "created_by": "Potlatch 0.9c",
+    "is_in": "Lahore, Punjab, Pakistan",
+    "name": "Nishat Colony",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 273463726,
+  "lat": 31.4892712,
+  "lon": 74.3812251,
+  "tags": {
+    "created_by": "Potlatch 0.9c",
+    "is_in": "Lahore, Punjab, Pakistan",
+    "name": "Super Town",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 273471442,
+  "lat": 31.4968828,
+  "lon": 74.3985629,
+  "tags": {
+    "created_by": "Potlatch 0.9c",
+    "name": "Askari Flats",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 273471549,
+  "lat": 31.4931287,
+  "lon": 74.4041212,
+  "tags": {
+    "created_by": "Potlatch 0.9c",
+    "name": "Ali View",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 273478657,
+  "lat": 31.4864922,
+  "lon": 74.4083093,
+  "tags": {
+    "is_in": "Lahore, Punjab, Pakistan",
+    "name": "Rehman Gardens",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 273478708,
+  "lat": 31.4845064,
+  "lon": 74.4108109,
+  "tags": {
+    "created_by": "Potlatch 0.9c",
+    "is_in": "Lahore, Punjab, Pakistan",
+    "name": "Rehman Villas",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 275113008,
+  "lat": 31.5587414,
+  "lon": 74.3995301,
+  "tags": {
+    "name": "غازى آباد",
+    "name:en": "Ghaziabad",
+    "name:hi": "ग़ाज़ियाबाद",
+    "name:ur": "غازى آباد",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 304242090,
+  "lat": 31.4368776,
+  "lon": 74.2699814,
+  "tags": {
+    "name": "Wapda Town",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 304242400,
+  "lat": 31.4461120,
+  "lon": 74.2766774,
+  "tags": {
+    "is_in": "Lahore",
+    "name": "PIA Housing Society",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 304246635,
+  "lat": 31.4346004,
+  "lon": 74.3206656,
+  "tags": {
+    "created_by": "Potlatch 0.10e",
+    "is_in": "Lahore",
+    "name": "Town Ship Industrial Estate",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 304250173,
+  "lat": 31.4501832,
+  "lon": 74.3303559,
+  "tags": {
+    "created_by": "Potlatch 0.10e",
+    "is_in": "Lahore",
+    "name": "PECO Factory",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 304580278,
+  "lat": 31.4542633,
+  "lon": 74.3998415,
+  "tags": {
+    "is_in": "Lahore",
+    "name": "Sui Gas Cop Society",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 304590217,
+  "lat": 31.4683011,
+  "lon": 74.4665753,
+  "tags": {
+    "is_in": "Lahore",
+    "name": "ڈیفنس",
+    "name:en": "Defense",
+    "name:hi": "डिफेंस",
+    "name:ur": "ڈیفینس",
+    "place": "town"
+  }
+},
+{
+  "type": "node",
+  "id": 304951041,
+  "lat": 31.5114957,
+  "lon": 74.3133355,
+  "tags": {
+    "name": "مسلم ٹاؤن",
+    "name:en": "Muslim Town",
+    "name:hi": "मुस्लिम टाउन",
+    "name:ur": "مسلم ٹاؤن",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 304951119,
+  "lat": 31.5227562,
+  "lon": 74.3195918,
+  "tags": {
+    "is_in": "Lahore",
+    "name": "رحمان پورہ",
+    "name:en": "Rehman Pura",
+    "name:hi": "रहमानपुरा",
+    "name:ur": "رحمان پورہ",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 304951488,
+  "lat": 31.5305555,
+  "lon": 74.3190003,
+  "tags": {
+    "alt_name": "Ichara",
+    "is_in": "Lahore",
+    "name": "اچھرہ‎",
+    "name:en": "Ichhra",
+    "name:hi": "इच्छरा",
+    "name:ur": "اچھرہ‎",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 304952172,
+  "lat": 31.5582420,
+  "lon": 74.2884446,
+  "tags": {
+    "name": "Sanda",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 304952759,
+  "lat": 31.6024546,
+  "lon": 74.3194736,
+  "tags": {
+    "is_in": "Lahore",
+    "name": "بادامی باغ",
+    "name:en": "Badami Bagh",
+    "name:hi": "बादामी बाग",
+    "name:ur": "بادامی باغ",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 304952983,
+  "lat": 31.5981297,
+  "lon": 74.3341065,
+  "tags": {
+    "amenity": "parking",
+    "is_in": "Lahore",
+    "name": "Shad Bagh",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 304953203,
+  "lat": 31.5803268,
+  "lon": 74.3683100,
+  "tags": {
+    "name": "Baghban Pura",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 304953311,
+  "lat": 31.5776944,
+  "lon": 74.3674517,
+  "tags": {
+    "name": "Sing Pura",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 304953604,
+  "lat": 31.5852988,
+  "lon": 74.3600703,
+  "tags": {
+    "name": "Makhan Pura",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 304953709,
+  "lat": 31.5870901,
+  "lon": 74.3877936,
+  "tags": {
+    "name": "Darogha Wala",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 304953837,
+  "lat": 31.5840192,
+  "lon": 74.3947459,
+  "tags": {
+    "name": "سلامت پورہ",
+    "name:en": "Salamat Pura",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 304954087,
+  "lat": 31.5648672,
+  "lon": 74.3786096,
+  "tags": {
+    "name": "Mughalpura",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 304956046,
+  "lat": 31.5505060,
+  "lon": 74.3947096,
+  "tags": {
+    "name": "پی اے ایف کالونی",
+    "name:en": "PAF Colony",
+    "name:hi": "पीएएफ कॉलोनी",
+    "name:ur": "پی اے ایف کالونی",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 304956246,
+  "lat": 31.4914608,
+  "lon": 74.4112750,
+  "tags": {
+    "is_in": "Lahore",
+    "name": "Bhata Chowk",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 304956263,
+  "lat": 31.4799694,
+  "lon": 74.4184418,
+  "tags": {
+    "is_in": "Lahore",
+    "name": "Bank Officer Colony",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 304956323,
+  "lat": 31.4593984,
+  "lon": 74.4412728,
+  "tags": {
+    "is_in": "Lahore",
+    "name": "لدھڑ",
+    "name:en": "Lidher",
+    "name:ur": "لڈھر",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 304956352,
+  "lat": 31.4529227,
+  "lon": 74.4133338,
+  "tags": {
+    "is_in": "Lahore",
+    "name": "Leel",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 304961588,
+  "lat": 31.4461822,
+  "lon": 74.3890019,
+  "tags": {
+    "is_in": "Lahore",
+    "name": "کماہاں",
+    "name:en": "Kamahan",
+    "name:hi": "कमाहान",
+    "name:ur": "کماہاں",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 304961768,
+  "lat": 31.4516336,
+  "lon": 74.3503341,
+  "tags": {
+    "is_in": "Lahore",
+    "name": "Ismaial Naghar",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 304961961,
+  "lat": 31.4450106,
+  "lon": 74.3455887,
+  "tags": {
+    "created_by": "Potlatch 0.10e",
+    "is_in": "Lahore",
+    "name": "Ghawala Colony",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 304962104,
+  "lat": 31.4565063,
+  "lon": 74.3200799,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:housenumber": "189",
+    "addr:postcode": "54700",
+    "addr:street": "Block 5",
+    "name": "Township",
+    "place": "suburb",
+    "website": "https://indianplays.com"
+  }
+},
+{
+  "type": "node",
+  "id": 304962274,
+  "lat": 31.4320546,
+  "lon": 74.3074652,
+  "tags": {
+    "is_in": "Lahore",
+    "name": "Green Town",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 304962556,
+  "lat": 31.4484522,
+  "lon": 74.2661782,
+  "tags": {
+    "is_in": "Lahore",
+    "name": "PECHS",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 304962662,
+  "lat": 31.4476294,
+  "lon": 74.2142354,
+  "tags": {
+    "is_in": "Lahore",
+    "name": "DHA EME Sector",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 304963204,
+  "lat": 31.4844343,
+  "lon": 74.2363949,
+  "tags": {
+    "is_in": "Lahore",
+    "name": "نیاز بیگ",
+    "name:en": "Niaz Baig",
+    "name:hi": "नियाज़ बेग",
+    "name:ur": "نیاز بیگ",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 304963320,
+  "lat": 31.4778832,
+  "lon": 74.2568226,
+  "tags": {
+    "is_in": "Lahore",
+    "name": "Canal View Housing Society",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 304963465,
+  "lat": 31.4828606,
+  "lon": 74.2788382,
+  "tags": {
+    "is_in": "Lahore",
+    "name": "TECH Society",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 304963565,
+  "lat": 31.5016678,
+  "lon": 74.3247728,
+  "tags": {
+    "name": "گارڈن ٹاؤن",
+    "name:en": "Garden Town",
+    "name:hi": "गार्डन टाउन",
+    "name:ur": "گارڈن ٹاؤن",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 304963605,
+  "lat": 31.5283410,
+  "lon": 74.3274613,
+  "tags": {
+    "is_in": "Lahore",
+    "name": "شاہ جمال",
+    "name:en": "Shah Jamal",
+    "name:hi": "शाह जमाल",
+    "name:ur": "شاہ جمال",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 304963846,
+  "lat": 31.5402908,
+  "lon": 74.2864016,
+  "tags": {
+    "name": "Sodhiwal",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 304963863,
+  "lat": 31.5358396,
+  "lon": 74.2739030,
+  "tags": {
+    "is_in": "Lahore",
+    "name": "Yateem Khana",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 304963881,
+  "lat": 31.5217929,
+  "lon": 74.2701264,
+  "tags": {
+    "is_in": "Lahore",
+    "name": "sabzazar",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 304963917,
+  "lat": 31.5558088,
+  "lon": 74.2819201,
+  "tags": {
+    "name": "Dhoop Sari",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 304964074,
+  "lat": 31.6368480,
+  "lon": 74.2842026,
+  "tags": {
+    "name": "رانا ٹاؤن",
+    "name:ar": "رانا تون",
+    "name:en": "Rana Town",
+    "name:ur": "رانا ٹاؤن",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 304964736,
+  "lat": 31.4715878,
+  "lon": 74.3816205,
+  "tags": {
+    "is_in": "Lahore",
+    "name": "Defence Housing Authority",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 304964818,
+  "lat": 31.4944249,
+  "lon": 74.3407651,
+  "tags": {
+    "name": "گلبرگ",
+    "name:de": "Gulberg",
+    "name:en": "Gulberg",
+    "name:es": "Gulberg",
+    "name:ur": "گلبرگ",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 304964881,
+  "lat": 31.5525905,
+  "lon": 74.3652268,
+  "tags": {
+    "name": "دھرم پورا",
+    "name:en": "Dharampura",
+    "name:hi": "धरमपुरा",
+    "name:pa": "ਧਰਮਪੁਰਾ",
+    "name:pnb": "دھرم پورا",
+    "name:sd": "ڌرم پورا",
+    "official_name": "مصطفیٰ آباد",
+    "official_name:en": "Mustafabad",
+    "official_name:ur": "مصطفیٰ آباد",
+    "place": "suburb",
+    "wikidata": "Q27546633",
+    "wikipedia": "ur:دھرم پورہ"
+  }
+},
+{
+  "type": "node",
+  "id": 304964909,
+  "lat": 31.5508361,
+  "lon": 74.3532711,
+  "tags": {
+    "name": "زمان پارک",
+    "name:en": "Zaman Park",
+    "name:hi": "ज़मान पार्क",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 304965261,
+  "lat": 31.5723725,
+  "lon": 74.3180300,
+  "tags": {
+    "name": "گوالمنڈی",
+    "name:en": "Gawalmandi",
+    "name:hi": "ग्वालमंडी",
+    "name:ur": "گوالمنڈی",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 304965343,
+  "lat": 31.5749997,
+  "lon": 74.3096226,
+  "tags": {
+    "name": "اُردو بازار",
+    "name:en": "Urdu Bazaar",
+    "name:hi": "उर्दू बाज़ार",
+    "name:ur": "اُردو بازار",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 304965368,
+  "lat": 31.5679445,
+  "lon": 74.3074319,
+  "tags": {
+    "name": "انارکلی‎",
+    "name:en": "Anarkali",
+    "name:hi": "अनारकली",
+    "name:ur": "انارکلی‎",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 304965552,
+  "lat": 31.4958155,
+  "lon": 74.2734738,
+  "tags": {
+    "is_in": "Lahore",
+    "name": "مصطفی ٹاؤن",
+    "name:en": "Mustafa Town",
+    "name:hi": "मुस्तफा टाउन",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 304965887,
+  "lat": 31.4817346,
+  "lon": 74.2907734,
+  "tags": {
+    "is_in": "Lahore",
+    "name": "Wafaqi Colony",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 316441011,
+  "lat": 31.4166670,
+  "lon": 74.3333330,
+  "tags": {
+    "gns:dsg": "ADM3",
+    "gns:uni": "-3841279",
+    "is_in:country": "Pakistan",
+    "is_in:country_code": "PK",
+    "is_in:state": "Punjab",
+    "name": "Lahore District",
+    "place": "county",
+    "population": "6318745",
+    "source": "GNS"
+  }
+},
+{
+  "type": "node",
+  "id": 540766753,
+  "lat": 31.4308381,
+  "lon": 74.2909498,
+  "tags": {
+    "is_in": "Lahore",
+    "name": "PCSIR",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 934985263,
+  "lat": 31.5042343,
+  "lon": 74.2631971,
+  "tags": {
+    "is_in": "Lahore",
+    "name": "اعوان ٹاؤن",
+    "name:en": "Awan Town",
+    "name:hi": "अवान टाउन",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 935843925,
+  "lat": 31.5015303,
+  "lon": 74.2593618,
+  "tags": {
+    "is_in": "Awan Town",
+    "name": "Kosar Block",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 935843947,
+  "lat": 31.5012559,
+  "lon": 74.2614324,
+  "tags": {
+    "is_in": "Awan Town",
+    "name": "Jinnah Block",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 935843948,
+  "lat": 31.5053412,
+  "lon": 74.2606865,
+  "tags": {
+    "is_in": "Awan Town",
+    "name": "Rizwan Block",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 1264437684,
+  "lat": 31.4415700,
+  "lon": 74.2244467,
+  "tags": {
+    "name": "Agrics Town",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1886594378,
+  "lat": 31.5656822,
+  "lon": 74.3141829,
+  "tags": {
+    "capital": "4",
+    "name": "لاہور",
+    "name:af": "Lahore",
+    "name:ar": "لاهور",
+    "name:arz": "لاهور",
+    "name:az-Arab": "لاهور",
+    "name:azb": "لاهور",
+    "name:bn": "লাহোর",
+    "name:bs": "Lahor",
+    "name:cs": "Láhaur",
+    "name:de": "Lahore",
+    "name:el": "Λαχόρη",
+    "name:en": "Lahore",
+    "name:eo": "Lahoro",
+    "name:es": "Lahore",
+    "name:et": "Lahore",
+    "name:fa": "لاهور",
+    "name:fr": "Lahore",
+    "name:he": "להורה",
+    "name:hi": "लाहौर",
+    "name:hr": "Lahore",
+    "name:hy": "Լահոր",
+    "name:it": "Lahore",
+    "name:ja": "ラホール",
+    "name:kn": "ಲಾಹೋರ್",
+    "name:ko": "라호르",
+    "name:ks": "لوہوٗر",
+    "name:ml": "ലാഹോർ",
+    "name:mzn": "لاهور",
+    "name:ne": "लाहोर",
+    "name:nl": "Lahore",
+    "name:oc": "Lahaur",
+    "name:pa": "ਲਹੌਰ",
+    "name:pl": "Lahaur",
+    "name:pnb": "لہور",
+    "name:ps": "لاهور",
+    "name:pt": "Laore",
+    "name:ru": "Лахор",
+    "name:sk": "Láhaur",
+    "name:sr-Latn": "Lahor",
+    "name:ta": "லாகூர்",
+    "name:tr": "Lahor",
+    "name:uk": "Лахор",
+    "name:ur": "لاہور",
+    "name:zh": "拉合尔",
+    "place": "city",
+    "population": "11126285",
+    "short_name:en": "LHR",
+    "wikidata": "Q11739",
+    "wikimedia_commons": "Category:Lahore",
+    "wikipedia": "ur:لاہور"
+  }
+},
+{
+  "type": "node",
+  "id": 2405717742,
+  "lat": 31.5057189,
+  "lon": 74.4342595,
+  "tags": {
+    "name": "سہجپال",
+    "name:en": "Sehajpal",
+    "name:ur": "سہجپال",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2405717743,
+  "lat": 31.5038794,
+  "lon": 74.4395833,
+  "tags": {
+    "name": "جگیاں الفاء",
+    "name:en": "Jhugian Alfa",
+    "name:ur": "جگیاں الفاء",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2405717744,
+  "lat": 31.5166039,
+  "lon": 74.4324008,
+  "tags": {
+    "name": "ملک پور",
+    "name:en": "Malakpur",
+    "name:hi": "मलकपुर",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2405776571,
+  "lat": 31.5294773,
+  "lon": 74.4374820,
+  "tags": {
+    "name": "باؤ والا",
+    "name:en": "Baoowala",
+    "name:ur": "باؤ والا",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2405776572,
+  "lat": 31.5283208,
+  "lon": 74.4457328,
+  "tags": {
+    "name": "Dograi",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2405776573,
+  "lat": 31.5281140,
+  "lon": 74.4260654,
+  "tags": {
+    "name": "ڈیڑھ پنڈی",
+    "name:en": "Derh Pindi",
+    "name:hi": "डेढ़ पिंडी",
+    "name:ur": "ڈیڑھ پنڈی",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2406603131,
+  "lat": 31.4953514,
+  "lon": 74.4321186,
+  "tags": {
+    "name": "ٹبہّ",
+    "name:en": "Tibba",
+    "name:ur": "ٹبہّ",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2431305342,
+  "lat": 31.5573249,
+  "lon": 74.4489428,
+  "tags": {
+    "name": "تیھڑا",
+    "name:en": "Tirrah",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2432499506,
+  "lat": 31.5601917,
+  "lon": 74.4260915,
+  "tags": {
+    "name": "Chandianpind",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2432499519,
+  "lat": 31.5595902,
+  "lon": 74.4289151,
+  "tags": {
+    "name": "Toy Chandia side",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2432499522,
+  "lat": 31.5603843,
+  "lon": 74.4319897,
+  "tags": {
+    "name": "پیر نصیر",
+    "name:en": "Pir Naseer",
+    "name:ur": "پیر نصیر",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2432504276,
+  "lat": 31.5630255,
+  "lon": 74.4266591,
+  "tags": {
+    "name": "حاجی پورہ",
+    "name:en": "Haji Pura",
+    "name:hi": "हाजीपुरा",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2506726417,
+  "lat": 31.4684802,
+  "lon": 74.4499039,
+  "tags": {
+    "name": "Dha Ph VI",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 2517082379,
+  "lat": 31.5943705,
+  "lon": 74.2210086,
+  "tags": {
+    "name": "فیض پور",
+    "name:en": "Faiz Pur",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2517085465,
+  "lat": 31.5882762,
+  "lon": 74.2079304,
+  "tags": {
+    "name": "Lahore Garden",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 2517087112,
+  "lat": 31.5966646,
+  "lon": 74.2375052,
+  "tags": {
+    "name": "سگیاں",
+    "name:en": "Saggian",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2517087113,
+  "lat": 31.5981409,
+  "lon": 74.2303386,
+  "tags": {
+    "name": "Al Rehman Gardens 2",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 2517404561,
+  "lat": 31.6234014,
+  "lon": 74.2339616,
+  "tags": {
+    "name": "کوٹ عبد المالک",
+    "name:en": "Kot Abdul Malik",
+    "name:hi": "कोट अब्दुल मालिक",
+    "name:ml": "കോട്ട് അബ്ദുൽമാലിക്",
+    "place": "town",
+    "population": "143434",
+    "wikidata": "Q6433723"
+  }
+},
+{
+  "type": "node",
+  "id": 2517404564,
+  "lat": 31.6284739,
+  "lon": 74.3050372,
+  "tags": {
+    "name": "شاہدره باغ",
+    "name:en": "Shahdara Bagh",
+    "name:hi": "शाहदरा बाग",
+    "name:ml": "ഷാഹ്ദര ബാഗ്",
+    "name:ur": "شاہدره باغ",
+    "place": "town"
+  }
+},
+{
+  "type": "node",
+  "id": 2948760205,
+  "lat": 31.5119955,
+  "lon": 74.3430178,
+  "tags": {
+    "name": "گلبرگ",
+    "name:ar": "غلبرغ",
+    "name:de": "Gulberg",
+    "name:en": "Gulberg",
+    "name:es": "Gulberg",
+    "name:fa": "گلبرگ",
+    "name:hi": "गुलबर्ग",
+    "name:pnb": "گلبرگ",
+    "name:ur": "گلبرگ",
+    "place": "suburb",
+    "wikidata": "Q3694745",
+    "wikimedia_commons": "Category:Gulberg Town",
+    "wikipedia": "ur:گلبرگ، لاہور",
+    "wikipedia:ur": "گلبرگ، لاہور"
+  }
+},
+{
+  "type": "node",
+  "id": 2951032182,
+  "lat": 31.4631615,
+  "lon": 74.2939169,
+  "tags": {
+    "addr:city": "Lahore",
+    "name": "جوہر ٹاؤن",
+    "name:en": "Johar Town",
+    "name:hi": "जोहर टाउन",
+    "name:ur": "جوہر ٹاؤن",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 2955901856,
+  "lat": 31.5395453,
+  "lon": 74.3016998,
+  "tags": {
+    "name": "سمن آباد",
+    "name:en": "Samanabad",
+    "name:hi": "समनाबाद",
+    "name:ur": "سمن آباد",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 3022250194,
+  "lat": 31.5994529,
+  "lon": 74.3379943,
+  "tags": {
+    "name": "شاد باٰغ",
+    "name:en": "Shad Bagh",
+    "name:fa": "شاد باغ",
+    "name:hi": "शाद बाग",
+    "name:ur": "شاد باغ",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 3224289911,
+  "lat": 31.5647005,
+  "lon": 74.3043702,
+  "tags": {
+    "name": "لیاقت آباد",
+    "name:en": "Liaqatabad",
+    "name:hi": "लियाकताबाद",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 3224324820,
+  "lat": 31.4664189,
+  "lon": 74.3382571,
+  "tags": {
+    "name": "کوٹ لکھپت",
+    "name:en": "Kot Lakhpat",
+    "name:hi": "कोट लखपत",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 3237520616,
+  "lat": 31.4589425,
+  "lon": 74.2307257,
+  "tags": {
+    "name": "Eden Canal Villas",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3279608797,
+  "lat": 31.4034529,
+  "lon": 74.2141516,
+  "tags": {
+    "name": "Labor Colony",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 3279633676,
+  "lat": 31.4203642,
+  "lon": 74.2550225,
+  "tags": {
+    "name": "Tariq Garden",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 3279633677,
+  "lat": 31.4066733,
+  "lon": 74.2582688,
+  "tags": {
+    "name": "Valencia",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 3279633679,
+  "lat": 31.4028090,
+  "lon": 74.2653712,
+  "tags": {
+    "name": "Naz Town",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 3283269424,
+  "lat": 31.4526266,
+  "lon": 74.2023666,
+  "tags": {
+    "name": "Park View Villas",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3339321152,
+  "lat": 31.5294173,
+  "lon": 74.2873834,
+  "tags": {
+    "name": "Sharif Park",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3582187609,
+  "lat": 31.5059446,
+  "lon": 74.3002840,
+  "tags": {
+    "name": "Professor Colony",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3588639646,
+  "lat": 31.4133989,
+  "lon": 74.3666053,
+  "tags": {
+    "name": "یوحنا آباد",
+    "name:en": "Youhanabad",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 4076050049,
+  "lat": 31.4771563,
+  "lon": 74.3576892,
+  "tags": {
+    "name": "النور ٹاؤن",
+    "name:en": "Al Noor Town",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 4158866201,
+  "lat": 31.4802775,
+  "lon": 74.2960813,
+  "tags": {
+    "name": "الرحیم ہومز",
+    "name:en": "Al Rahim Homes",
+    "name:ur": "الرحیم ہومز",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4348417989,
+  "lat": 31.5450221,
+  "lon": 74.3417935,
+  "tags": {
+    "name": "جی او آر",
+    "name:en": "G.O.R.",
+    "name:hi": "जी.ओ.आर.",
+    "name:ur": "جی او آر",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 4472915042,
+  "lat": 31.4294388,
+  "lon": 74.2041334,
+  "tags": {
+    "name": "Judicial Colony Phase III",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 4494862727,
+  "lat": 31.5318817,
+  "lon": 74.2813149,
+  "tags": {
+    "name": "Kamran Block",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4710624021,
+  "lat": 31.4575982,
+  "lon": 74.3955357,
+  "tags": {
+    "name": "DHA Phase V",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 4710624022,
+  "lat": 31.4581588,
+  "lon": 74.3963135,
+  "tags": {
+    "name": "Sector L",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 4724582491,
+  "lat": 31.5247262,
+  "lon": 74.4570388,
+  "tags": {
+    "name": "Imperial Garden",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 4949782984,
+  "lat": 31.5488201,
+  "lon": 74.3149705,
+  "tags": {
+    "alt_name": "Mozang",
+    "name": "Mozang Chungi",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 4978288794,
+  "lat": 31.4710405,
+  "lon": 74.2724564,
+  "tags": {
+    "name": "Johar Town L Block",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 5782807948,
+  "lat": 31.5804525,
+  "lon": 74.3147901,
+  "tags": {
+    "name": "Kucha Ghangoo Shah",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7113789168,
+  "lat": 31.5807772,
+  "lon": 74.3616766,
+  "tags": {
+    "name": "بیگم پورہ",
+    "name:en": "Begampura",
+    "name:hi": "बेगमपुरा",
+    "name:ml": "ബേഗംപുര",
+    "name:ur": "بیگم پورہ",
+    "place": "town"
+  }
+},
+{
+  "type": "node",
+  "id": 7113789169,
+  "lat": 31.5845029,
+  "lon": 74.3766651,
+  "tags": {
+    "name": "باغبان پُور",
+    "name:en": "Baghbanpura",
+    "name:hi": "बागबानपुरा",
+    "name:ur": "باغبان پُور",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7113791507,
+  "lat": 31.5657186,
+  "lon": 74.2937706,
+  "tags": {
+    "name": "اسلام پُورہ",
+    "name:en": "Islampura",
+    "name:hi": "इस्लामपुरा",
+    "name:ur": "اسلام پورہ",
+    "old_name:en": "Krishan Nagar",
+    "old_name:ur": "کرشن نگر",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7113793028,
+  "lat": 31.5876734,
+  "lon": 74.3270395,
+  "tags": {
+    "name": "مصری شاہ",
+    "name:en": "Misri Shah",
+    "name:hi": "मिस्री शाह",
+    "name:ur": "مصری شاہ",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7113801056,
+  "lat": 31.5909699,
+  "lon": 74.2988606,
+  "tags": {
+    "name": "کریم پارک",
+    "name:en": "Karim Park",
+    "name:hi": "करीम पार्क",
+    "name:ur": "کریم پارک",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7113801057,
+  "lat": 31.5849289,
+  "lon": 74.2950947,
+  "tags": {
+    "name": "امين پارک",
+    "name:en": "Ameen Park",
+    "name:hi": "अमीन पार्क",
+    "name:ur": "امين پارک",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7113801058,
+  "lat": 31.5817392,
+  "lon": 74.3010600,
+  "tags": {
+    "name": "بلال گنج",
+    "name:en": "Bilal Ganj",
+    "name:hi": "बिलाल गंज",
+    "name:ur": "بلال گنج",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7113812207,
+  "lat": 31.5790278,
+  "lon": 74.3314726,
+  "tags": {
+    "name": "نولکھا",
+    "name:en": "Naulakha",
+    "name:hi": "नौलखा",
+    "name:ur": "نولکھا",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7113813503,
+  "lat": 31.5772455,
+  "lon": 74.3268807,
+  "tags": {
+    "is_in": "Lahore",
+    "name": "Rehman Gali",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7113813504,
+  "lat": 31.5559117,
+  "lon": 74.3481672,
+  "tags": {
+    "name": "میّو گارڈنز",
+    "name:en": "Mayo Gardens",
+    "name:hi": "मेयो गार्डन",
+    "name:ur": "میّو گارڈنز",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7113816680,
+  "lat": 31.5693486,
+  "lon": 74.3294480,
+  "tags": {
+    "name": "قلعہ گجر سنگھ",
+    "name:en": "Qila Gujjar Singh",
+    "name:hi": "किला गुज्जर सिंह",
+    "name:ur": "قلعہ گجر سنگھ",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7113816782,
+  "lat": 31.5486368,
+  "lon": 74.3595183,
+  "tags": {
+    "name": "میاں میر",
+    "name:en": "Mian Mir",
+    "name:ml": "मियां मीर",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7113817110,
+  "lat": 31.5829720,
+  "lon": 74.3362347,
+  "tags": {
+    "name": "فیض باغ",
+    "name:en": "Faiz Bagh",
+    "name:hi": "फैज़ बाग",
+    "name:ur": "فیض باغ",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7113819402,
+  "lat": 31.5448177,
+  "lon": 74.3009525,
+  "tags": {
+    "name": "Arya Nagar",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7113819403,
+  "lat": 31.5494053,
+  "lon": 74.3047714,
+  "tags": {
+    "name": "اسلامیہ پارک",
+    "name:en": "Islamia Park",
+    "name:hi": "इस्लामिया पार्क",
+    "name:ur": "اسلامیہ پارک",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7113819404,
+  "lat": 31.5511911,
+  "lon": 74.3124658,
+  "tags": {
+    "name": "سعدی پارک",
+    "name:en": "Saadi Park",
+    "name:hi": "सादी पार्क",
+    "name:ur": "سعدی پارک",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7113819996,
+  "lat": 31.5831841,
+  "lon": 74.3184836,
+  "tags": {
+    "alt_name:en": "Androon Shehr",
+    "alt_name:ml": "അന്ദറൂൺ ഷഹർ;ഉൾനഗരം",
+    "alt_name:ur": "والڈ سٹی",
+    "name": "اندرون شہر",
+    "name:de": "Altstadt von Lahore",
+    "name:en": "Walled City",
+    "name:fa": "اندرون لاهور",
+    "name:hi": "अंदरून शहर",
+    "name:ml": "വാൾഡ് സിറ്റി",
+    "place": "town",
+    "wikidata": "Q3694662"
+  }
+},
+{
+  "type": "node",
+  "id": 7113832906,
+  "lat": 31.5869365,
+  "lon": 74.3429976,
+  "tags": {
+    "name": "چاہ میراں",
+    "name:en": "Chah Miran",
+    "name:hi": "चाह मीरान",
+    "name:ur": "چاہ میراں",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7113846731,
+  "lat": 31.5270458,
+  "lon": 74.3057495,
+  "tags": {
+    "name": "شاہ کمال",
+    "name:en": "Shah Kamal",
+    "name:hi": "शाह कमाल",
+    "name:ur": "شاہ کمال",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7113853737,
+  "lat": 31.5833901,
+  "lon": 74.3664700,
+  "tags": {
+    "name": "Singhpura",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7113860664,
+  "lat": 31.5782024,
+  "lon": 74.3896087,
+  "tags": {
+    "name": "کوٹلی عبدالرحمان",
+    "name:en": "Kotli Abdur Rahman",
+    "name:hi": "कोटली अब्दुर्रहमान",
+    "name:ur": "کوٹلی عبدالرحمان",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 7113863869,
+  "lat": 31.5755068,
+  "lon": 74.3843969,
+  "tags": {
+    "name": "ساھواڑی",
+    "name:en": "Sahowari",
+    "name:hi": "साहोवाड़ी",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7113863870,
+  "lat": 31.5696247,
+  "lon": 74.3845847,
+  "tags": {
+    "name": "رام گڑھ",
+    "name:en": "Ramgarh",
+    "name:hi": "रामगढ़",
+    "name:ur": "رام گڑھ",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7113865101,
+  "lat": 31.5895713,
+  "lon": 74.3571883,
+  "tags": {
+    "name": "کوٹ خواجہ سعید",
+    "name:en": "Kot Khwaja Saeed",
+    "name:hi": "कोट ख्वाजा सईद",
+    "name:ur": "کوٹ خواجہ سعید",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7113868252,
+  "lat": 31.5934957,
+  "lon": 74.3001900,
+  "tags": {
+    "name": "Mominpura",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7113873736,
+  "lat": 31.5724255,
+  "lon": 74.4059751,
+  "tags": {
+    "name": "فتح گڑھ",
+    "name:en": "Fatehgarh",
+    "name:hi": "फतेहगढ़",
+    "name:ur": "فتح گڑھ",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7113876967,
+  "lat": 31.5298601,
+  "lon": 74.2966022,
+  "tags": {
+    "name": "پاککی ٹھٹھی",
+    "name:en": "Pakki Thatti",
+    "name:hi": "पाक्की ठठी",
+    "name:ur": "پاککی ٹھٹھی",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7113884445,
+  "lat": 31.5385429,
+  "lon": 74.2939510,
+  "tags": {
+    "name": "نواں کوٹ",
+    "name:en": "Nawan Kot",
+    "name:hi": "नवांकोट",
+    "name:ur": "نواں کوٹ",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7113890476,
+  "lat": 31.5499546,
+  "lon": 74.3802290,
+  "tags": {
+    "name": "صدر",
+    "name:en": "Saddar",
+    "name:hi": "सदर",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7113910048,
+  "lat": 31.5472652,
+  "lon": 74.2991205,
+  "tags": {
+    "name": "چوبرجی گارڈنز",
+    "name:en": "Chauburji Garden",
+    "name:hi": "चौबुर्जी गार्डन",
+    "name:ur": "چوبرجی گارڈنز",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7113910257,
+  "lat": 31.5559895,
+  "lon": 74.2969079,
+  "tags": {
+    "name": "راج گڑھ",
+    "name:en": "Raj Garh",
+    "name:hi": "राजगढ़",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7113920472,
+  "lat": 31.5909374,
+  "lon": 74.3392199,
+  "tags": {
+    "name": "وسن پورہ",
+    "name:en": "Wassanpura",
+    "name:hi": "वसनपुरा",
+    "name:ur": "وسن پورہ",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7113923799,
+  "lat": 31.5663377,
+  "lon": 74.3103211,
+  "tags": {
+    "name": "Dhobi Mandi",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7113935997,
+  "lat": 31.5952829,
+  "lon": 74.3367586,
+  "tags": {
+    "name": "تاج پورہ",
+    "name:en": "Tajpura",
+    "name:hi": "ताजपुरा",
+    "name:ur": "تاج پورہ",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7113975767,
+  "lat": 31.6537070,
+  "lon": 74.4913486,
+  "tags": {
+    "name": "Pir Mandiala",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 7113975774,
+  "lat": 31.6189594,
+  "lon": 74.4786083,
+  "tags": {
+    "name": "تھیری",
+    "name:en": "Theri",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 7113975775,
+  "lat": 31.6171559,
+  "lon": 74.4624258,
+  "tags": {
+    "alt_name:en": "Mouza Natt",
+    "alt_name:ur": "موضع نت",
+    "name": "نت کلاں",
+    "name:en": "Natt Kalan",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 7113975776,
+  "lat": 31.6086955,
+  "lon": 74.4605524,
+  "tags": {
+    "name": "گلشنِ یاسین",
+    "name:en": "Gulshan-e-Yaseen",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 7113975777,
+  "lat": 31.6035424,
+  "lon": 74.4535114,
+  "tags": {
+    "name": "تاج گڑھ",
+    "name:en": "Taj Garh",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 7113975779,
+  "lat": 31.6249803,
+  "lon": 74.4472880,
+  "tags": {
+    "name": "گنج سندھواں",
+    "name:en": "Gunj Sundwan",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 7113975780,
+  "lat": 31.6396665,
+  "lon": 74.4468639,
+  "tags": {
+    "name": "Maral Marri",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 7113975781,
+  "lat": 31.6489552,
+  "lon": 74.4619859,
+  "tags": {
+    "name": "اعوان ڈھائیوالہ",
+    "name:en": "Awan Dhaiwala",
+    "name:ur": "اعوان ڈھائیوالہ",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 7113975782,
+  "lat": 31.6458376,
+  "lon": 74.4755924,
+  "tags": {
+    "name": "جنڈیالہ",
+    "name:en": "Jandiala",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 7113991189,
+  "lat": 31.6128959,
+  "lon": 74.4255218,
+  "tags": {
+    "name": "زہرا پیر",
+    "name:en": "Zahra Pir",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 7113991190,
+  "lat": 31.6100344,
+  "lon": 74.4134747,
+  "tags": {
+    "name": "لکھوڈیر",
+    "name:en": "Lakhoder",
+    "name:hi": "लखोडेर",
+    "name:ur": "لکھوڈیر",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7113991191,
+  "lat": 31.6011492,
+  "lon": 74.4153029,
+  "tags": {
+    "name": "شریف پورہ",
+    "name:en": "Sharif Pura",
+    "name:hi": "शरीफपुरा",
+    "name:ur": "شریف پورہ",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7116188320,
+  "lat": 31.5221005,
+  "lon": 74.3790353,
+  "tags": {
+    "alt_name:en": "Cantonment",
+    "alt_name:ur": "چھاؤنی",
+    "name": "لاہور کینٹ",
+    "name:en": "Lahore Cant",
+    "name:hi": "लाहौर छावनी",
+    "name:ur": "لاہور کینٹ",
+    "old_name": "Mian Mir Cantonment",
+    "old_name:ur": "میاں میر چھاؤنی",
+    "place": "town",
+    "short_name": "لاہور کینٹ",
+    "short_name:en": "Lahore Cantt",
+    "short_name:ur": "لاہور کینٹ"
+  }
+},
+{
+  "type": "node",
+  "id": 7116235886,
+  "lat": 31.6049424,
+  "lon": 74.3949958,
+  "tags": {
+    "name": "محمود بُوٹی",
+    "name:en": "Mehmood Booti",
+    "name:hi": "महमूद बूटी",
+    "name:ur": "محمود بوٹی",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7116354722,
+  "lat": 31.5963720,
+  "lon": 74.3631672,
+  "tags": {
+    "name": "چائنہ سکیم",
+    "name:en": "China Scheme",
+    "name:hi": "चाइना स्कीम",
+    "name:ur": "چائنہ سکیم",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7118224061,
+  "lat": 31.5730788,
+  "lon": 74.3332892,
+  "tags": {
+    "name": "ٹیگور پارک",
+    "name:en": "Tegore Park",
+    "name:ur": "ٹیگور پارک",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7118815828,
+  "lat": 31.5671292,
+  "lon": 74.3398946,
+  "tags": {
+    "name": "Muhammad Nagar",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7118815844,
+  "lat": 31.5617988,
+  "lon": 74.3481605,
+  "tags": {
+    "name": "گڑہی شاہو",
+    "name:en": "Garhi Shahu",
+    "name:hi": "गढ़ी शाहू",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7118860988,
+  "lat": 31.5656491,
+  "lon": 74.3557798,
+  "tags": {
+    "name": "Baja Lines",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7118860993,
+  "lat": 31.5583064,
+  "lon": 74.3693514,
+  "tags": {
+    "name": "Bostan Colony",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7118861136,
+  "lat": 31.5507345,
+  "lon": 74.3762699,
+  "tags": {
+    "name": "Bakkar Mohallah",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7118861137,
+  "lat": 31.5493125,
+  "lon": 74.3760119,
+  "tags": {
+    "name": "Dagi Mohallah",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7118861138,
+  "lat": 31.5479110,
+  "lon": 74.3759071,
+  "tags": {
+    "name": "Bazaz Mohallah",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7118861139,
+  "lat": 31.5524930,
+  "lon": 74.3856127,
+  "tags": {
+    "name": "Cantonment Officer's Colony",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7118861140,
+  "lat": 31.5478594,
+  "lon": 74.3787879,
+  "tags": {
+    "name": "Kharas Mohallah",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7118861141,
+  "lat": 31.5494105,
+  "lon": 74.3788644,
+  "tags": {
+    "name": "Donger Mohallah",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7118861142,
+  "lat": 31.5478854,
+  "lon": 74.3816022,
+  "tags": {
+    "name": "Bengali Mohallah",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7118861143,
+  "lat": 31.5507921,
+  "lon": 74.3815105,
+  "tags": {
+    "name": "کراچی محلہ",
+    "name:en": "Karachi Mohallah",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7118877839,
+  "lat": 31.5280341,
+  "lon": 74.3655326,
+  "tags": {
+    "name": "سینٹ جان پارک",
+    "name:en": "Saint John Park",
+    "name:ur": "سینٹ جان پارک",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7118877840,
+  "lat": 31.5250450,
+  "lon": 74.3621905,
+  "tags": {
+    "name": "عسکری 2",
+    "name:en": "Askari 2",
+    "name:ur": "عسکری 2",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7118877854,
+  "lat": 31.5444439,
+  "lon": 74.3848030,
+  "tags": {
+    "name": "Askari 1",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7118877855,
+  "lat": 31.5013202,
+  "lon": 74.3679023,
+  "tags": {
+    "name": "کیولری گراؤنڈ",
+    "name:en": "Cavalry Ground",
+    "name:hi": "कैवलरी ग्राउंड",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7118877856,
+  "lat": 31.4873402,
+  "lon": 74.3617170,
+  "tags": {
+    "name": "والٹن",
+    "name:de": "Walton",
+    "name:en": "Walton",
+    "name:es": "Walton",
+    "name:hi": "वाल्टन",
+    "name:ur": "والٹن",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7118906915,
+  "lat": 31.5447676,
+  "lon": 74.3546960,
+  "tags": {
+    "name": "اپر مال",
+    "name:en": "Upper Mall",
+    "name:hi": "अपर मॉल",
+    "name:ur": "اپر مال",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7118906916,
+  "lat": 31.5402111,
+  "lon": 74.3269705,
+  "tags": {
+    "name": "شادمان",
+    "name:en": "Shadman",
+    "name:hi": "शादमान",
+    "name:ur": "شادمان",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7121753844,
+  "lat": 31.5658268,
+  "lon": 74.3234152,
+  "tags": {
+    "name": "Royal Park",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7121826776,
+  "lat": 31.5265573,
+  "lon": 74.3247983,
+  "tags": {
+    "name": "Zaildar Park",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7121843243,
+  "lat": 31.5576783,
+  "lon": 74.3934959,
+  "tags": {
+    "name": "غازى آباد",
+    "name:en": "Ghaziabad",
+    "name:ur": "غازى آباد",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 7121843244,
+  "lat": 31.5618754,
+  "lon": 74.3972259,
+  "tags": {
+    "alt_name": "تنویرآباد",
+    "name": "تنویر آباد",
+    "name:en": "Tanveerabad",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7121843245,
+  "lat": 31.5567035,
+  "lon": 74.4098019,
+  "tags": {
+    "name": "Tajpura Village",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7121851912,
+  "lat": 31.5990964,
+  "lon": 74.3009152,
+  "tags": {
+    "name": "Timber Market",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7297733033,
+  "lat": 31.4716319,
+  "lon": 74.4510840,
+  "tags": {
+    "name": "DHA Phase 6",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8059370744,
+  "lat": 31.6376249,
+  "lon": 74.3701443,
+  "tags": {
+    "name": "کورول",
+    "name:en": "Karol",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8059385848,
+  "lat": 31.6347947,
+  "lon": 74.3525115,
+  "tags": {
+    "name": "جبو کالاں",
+    "name:en": "Jabbo Kalan",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8389730144,
+  "lat": 31.5768478,
+  "lon": 74.3132985,
+  "tags": {
+    "name": "Bairoon Lohari Gate",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8389781580,
+  "lat": 31.5772276,
+  "lon": 74.3114477,
+  "tags": {
+    "name": "Bairoon Mori Gate",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8389964097,
+  "lat": 31.5855204,
+  "lon": 74.3174869,
+  "tags": {
+    "name": "Katri Sikandar Khan",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8389964098,
+  "lat": 31.5868975,
+  "lon": 74.3194264,
+  "tags": {
+    "name": "کٹری باوا",
+    "name:en": "Katri Bawa",
+    "name:ur": "کٹری باوا",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8391186370,
+  "lat": 31.5825473,
+  "lon": 74.3251602,
+  "tags": {
+    "name": "محمدی محلہ",
+    "name:en": "Muhammadi Mohallah",
+    "name:ur": "محمدی محلہ",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8396145035,
+  "lat": 31.5861434,
+  "lon": 74.3121917,
+  "tags": {
+    "name": "شاہی محلہ",
+    "name:en": "Shahi Mohallah",
+    "name:hi": "शाही मोहल्ला",
+    "name:ur": "شاہی محلہ",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8396145036,
+  "lat": 31.5856618,
+  "lon": 74.3091016,
+  "tags": {
+    "name": "ہیرا منڈی",
+    "name:en": "Heera Mandi",
+    "name:pnb": "ہیرا منڈی",
+    "name:ur": "ہیرا منڈی",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8396299346,
+  "lat": 31.5901484,
+  "lon": 74.3526694,
+  "tags": {
+    "name": "Perwezabad",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8396341122,
+  "lat": 31.5826932,
+  "lon": 74.3258744,
+  "tags": {
+    "name": "چرخ گراں",
+    "name:en": "Charkh Garan",
+    "name:ur": "چرخ گراں",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8398430232,
+  "lat": 31.5945780,
+  "lon": 74.3074317,
+  "tags": {
+    "name": "Ravi Park",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8398430274,
+  "lat": 31.5798783,
+  "lon": 74.3228087,
+  "tags": {
+    "name": "محلہ شیعاں کشمیریاں",
+    "name:en": "Mohallah Shia’an Kashmirian",
+    "name:hi": "मोहल्ला शिआं कश्मीरियां",
+    "name:ur": "محلہ شیعاں کشمیریاں",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8400212939,
+  "lat": 31.5846847,
+  "lon": 74.3221580,
+  "tags": {
+    "name": "Mohalla Buzurg Shah",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8406781922,
+  "lat": 31.5221922,
+  "lon": 74.3591419,
+  "tags": {
+    "name": "جناح پارک",
+    "name:en": "Jinnah Park",
+    "name:ur": "جناح پارک",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8406781923,
+  "lat": 31.5244746,
+  "lon": 74.3597748,
+  "tags": {
+    "name": "رحمان پارک",
+    "name:en": "Rehman Park",
+    "name:ur": "رحمان پارک",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8406781933,
+  "lat": 31.5153205,
+  "lon": 74.3590739,
+  "tags": {
+    "name": "Nabipura",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8406781955,
+  "lat": 31.5045204,
+  "lon": 74.3558577,
+  "tags": {
+    "name": "Kabootarpura",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8406781957,
+  "lat": 31.4972319,
+  "lon": 74.3557557,
+  "tags": {
+    "name": "Makkah Colony",
+    "place": "neighbourhood",
+    "population": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 8406781961,
+  "lat": 31.4863523,
+  "lon": 74.3553015,
+  "tags": {
+    "name": "ریلوے کالونی",
+    "name:en": "Railway Colony",
+    "name:ur": "ریلوے کالونی",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8406856793,
+  "lat": 31.5320875,
+  "lon": 74.3186099,
+  "tags": {
+    "name": "Sardarpura",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8406860239,
+  "lat": 31.5670887,
+  "lon": 74.3372947,
+  "tags": {
+    "name": "Empress Park",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8407704772,
+  "lat": 31.5489078,
+  "lon": 74.2970404,
+  "tags": {
+    "name": "Post & Telegraph Colony",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8407704774,
+  "lat": 31.5465559,
+  "lon": 74.2929810,
+  "tags": {
+    "name": "Gulfishan Colony",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8411271873,
+  "lat": 31.5741934,
+  "lon": 74.3113346,
+  "tags": {
+    "name": "Mohallah Biyopiyaran",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8658688460,
+  "lat": 31.4099027,
+  "lon": 74.4894491,
+  "tags": {
+    "name": "ہیئر",
+    "name:en": "Heir",
+    "name:ur": "ہیئر",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8662676484,
+  "lat": 31.5028561,
+  "lon": 74.4962686,
+  "tags": {
+    "name": "گھونڈی خوشحال سنگھ",
+    "name:en": "Ghuvindi Khushal Singh",
+    "name:ur": "گھونڈی خوشحال سنگھ",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8662676485,
+  "lat": 31.5064797,
+  "lon": 74.4988959,
+  "tags": {
+    "name": "سادو سنگھ والا",
+    "name:en": "Sadhu Singhwala",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8673689563,
+  "lat": 31.4121714,
+  "lon": 74.3743616,
+  "tags": {
+    "name": "دُولو",
+    "name:en": "Dullu",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8673689565,
+  "lat": 31.4000691,
+  "lon": 74.4088315,
+  "tags": {
+    "name": "راجابولے",
+    "name:en": "Rajabole",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8673689566,
+  "lat": 31.4065689,
+  "lon": 74.4155614,
+  "tags": {
+    "name": "Deo Khurd",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8673689567,
+  "lat": 31.4106289,
+  "lon": 74.3970134,
+  "tags": {
+    "name": "بالہڑ",
+    "name:en": "Bahler",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8673689579,
+  "lat": 31.4085659,
+  "lon": 74.4255751,
+  "tags": {
+    "name": "ٹھٹھہ خورد",
+    "name:en": "Thatta Khurd",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8673689611,
+  "lat": 31.4131068,
+  "lon": 74.4370947,
+  "tags": {
+    "name": "Saora",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8673689612,
+  "lat": 31.4051115,
+  "lon": 74.4531724,
+  "tags": {
+    "name": "ملکہوکی",
+    "name:en": "Malkhokiw",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8673689614,
+  "lat": 31.4205634,
+  "lon": 74.4586140,
+  "tags": {
+    "name": "Thethar",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851175271,
+  "lat": 31.6445860,
+  "lon": 74.3777776,
+  "tags": {
+    "name": "عینوبھٹی",
+    "name:en": "Ainu Bhatti",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851175296,
+  "lat": 31.6520750,
+  "lon": 74.3641909,
+  "tags": {
+    "name": "جھگیاں اراضی",
+    "name:en": "Jhuggian Arazi",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851175297,
+  "lat": 31.6561735,
+  "lon": 74.3827294,
+  "tags": {
+    "name": "بُکن وال",
+    "name:en": "Bukan Wal",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851220938,
+  "lat": 31.6515221,
+  "lon": 74.4160180,
+  "tags": {
+    "name": "روٹ گڑھ",
+    "name:en": "Rot Garh",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851220939,
+  "lat": 31.6545201,
+  "lon": 74.4081835,
+  "tags": {
+    "name": "بھینی پور",
+    "name:en": "Bhaini Pur",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851294413,
+  "lat": 31.6078238,
+  "lon": 74.4384106,
+  "tags": {
+    "name": "ہانڈو گجر",
+    "name:en": "Hando Gujjar",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851294414,
+  "lat": 31.5938315,
+  "lon": 74.4357925,
+  "tags": {
+    "name": "ڈیرہ گُجراں",
+    "name:en": "Dera Gujran",
+    "name:hi": "डेरा गुजरान",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851294415,
+  "lat": 31.5964964,
+  "lon": 74.4913891,
+  "tags": {
+    "alt_name:en": "Bata Pur",
+    "name": "باٹا پور",
+    "name:en": "Batapur",
+    "name:hi": "बाटापुर",
+    "name:ml": "ബാട്ടാപൂർ",
+    "place": "town"
+  }
+},
+{
+  "type": "node",
+  "id": 8851294416,
+  "lat": 31.5840574,
+  "lon": 74.4735679,
+  "tags": {
+    "name": "رضوان گارڈنز",
+    "name:en": "Rizwan Gardens",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8851301444,
+  "lat": 31.6574923,
+  "lon": 74.3237007,
+  "tags": {
+    "name": "نتھو کوٹ",
+    "name:en": "Nathu Kot",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851301445,
+  "lat": 31.6537442,
+  "lon": 74.3217320,
+  "tags": {
+    "name": "جسپت",
+    "name:en": "Jaspat",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851307886,
+  "lat": 31.6593310,
+  "lon": 74.3074870,
+  "tags": {
+    "name": "حاجی کوٹ",
+    "name:en": "Haji Kot",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851381917,
+  "lat": 31.5799933,
+  "lon": 74.4591482,
+  "tags": {
+    "name": "تلسپورہ",
+    "name:en": "Tulspura",
+    "name:hi": "तुलसपुरा",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851381922,
+  "lat": 31.5773543,
+  "lon": 74.4452214,
+  "tags": {
+    "name": "نواب پورہ",
+    "name:en": "Nawabpura",
+    "name:hi": "नवाबपुरा",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851381925,
+  "lat": 31.5456798,
+  "lon": 74.4899573,
+  "tags": {
+    "alt_name:en": "Mandianwala",
+    "name": "منڈیان والا",
+    "name:en": "Mandian Wala",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851381926,
+  "lat": 31.5358559,
+  "lon": 74.4645263,
+  "tags": {
+    "name": "پھلر واں",
+    "name:en": "Phullar Wan",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851381930,
+  "lat": 31.5244839,
+  "lon": 74.4795975,
+  "tags": {
+    "name": "چغلپورہ",
+    "name:en": "Chughalpura",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851381931,
+  "lat": 31.5131710,
+  "lon": 74.4627190,
+  "tags": {
+    "name": "درگ پورہ",
+    "name:en": "Durgpura",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851381932,
+  "lat": 31.5056128,
+  "lon": 74.4559728,
+  "tags": {
+    "name": "جندڑی",
+    "name:en": "Jindri",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851381933,
+  "lat": 31.4944430,
+  "lon": 74.4555387,
+  "tags": {
+    "name": "جندڑا کلاں",
+    "name:en": "Jindra Kalan",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851381934,
+  "lat": 31.4891810,
+  "lon": 74.4567193,
+  "tags": {
+    "name": "جھالراں",
+    "name:en": "Jhalaran",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8851381935,
+  "lat": 31.4807133,
+  "lon": 74.4654271,
+  "tags": {
+    "name": "Ghugian",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8851381936,
+  "lat": 31.4896948,
+  "lon": 74.4774475,
+  "tags": {
+    "name": "بھنگالی",
+    "name:en": "Bhangali",
+    "place": "village",
+    "population": "12000"
+  }
+},
+{
+  "type": "node",
+  "id": 8851381937,
+  "lat": 31.4757510,
+  "lon": 74.4821431,
+  "tags": {
+    "name": "ڈھیرا",
+    "name:en": "Dhira",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851381938,
+  "lat": 31.4919050,
+  "lon": 74.4946829,
+  "tags": {
+    "name": "بھائی والا",
+    "name:en": "Bhaiwala",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851400146,
+  "lat": 31.5903765,
+  "lon": 74.2129197,
+  "tags": {
+    "name": "کوٹ نور شاہ",
+    "name:en": "Kot Noor Shah",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851400147,
+  "lat": 31.5794019,
+  "lon": 74.2002208,
+  "tags": {
+    "name": "رانا بھٹی",
+    "name:en": "Rana Bhatti",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851614786,
+  "lat": 31.6337330,
+  "lon": 74.2183440,
+  "tags": {
+    "name": "جھگیاں سیالاں",
+    "name:en": "Jhugian Sialan",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851646556,
+  "lat": 31.4203252,
+  "lon": 74.4161056,
+  "tags": {
+    "name": "دیو کلاں",
+    "name:en": "Deo Kalan",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851646557,
+  "lat": 31.4425941,
+  "lon": 74.4719370,
+  "tags": {
+    "name": "ڈیرہ چاہل",
+    "name:en": "Dera Chahal",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851646558,
+  "lat": 31.4389774,
+  "lon": 74.4957668,
+  "tags": {
+    "name": "کرباٹھ",
+    "name:en": "Karbath",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851646559,
+  "lat": 31.4580954,
+  "lon": 74.4305971,
+  "tags": {
+    "name": "نتھا سنگھ والا",
+    "name:en": "Natha Singhwala",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851646560,
+  "lat": 31.4410567,
+  "lon": 74.4528117,
+  "tags": {
+    "alt_name:en": "Mota Singh Wwala",
+    "name": "موتا سنگھ والا",
+    "name:en": "Mota Singhwala",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8852335051,
+  "lat": 31.4016236,
+  "lon": 74.2273206,
+  "tags": {
+    "name": "Bhobtian",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8852335052,
+  "lat": 31.4066701,
+  "lon": 74.2474287,
+  "tags": {
+    "name": "امیر پُور",
+    "name:en": "Amir Pur",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8852335053,
+  "lat": 31.4184742,
+  "lon": 74.2468830,
+  "tags": {
+    "name": "امیر پورہ جُگیاں",
+    "name:en": "Ameer Pura Juggian",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8852335054,
+  "lat": 31.4249751,
+  "lon": 74.2216187,
+  "tags": {
+    "name": "فتح آباد",
+    "name:en": "Fateh Abad",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8852335171,
+  "lat": 31.4589093,
+  "lon": 74.2059975,
+  "tags": {
+    "name": "خان پور",
+    "name:en": "Khanpur",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8852335172,
+  "lat": 31.4621330,
+  "lon": 74.2031875,
+  "tags": {
+    "name": "کانجرہ",
+    "name:en": "Kanjra",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8852335173,
+  "lat": 31.4741876,
+  "lon": 74.2261079,
+  "tags": {
+    "name": "گوپی روئے",
+    "name:en": "Gopi Rai",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8852335174,
+  "lat": 31.4957739,
+  "lon": 74.2271140,
+  "tags": {
+    "alt_name:en": "Abdullah Amir",
+    "name": "مرید وال",
+    "name:en": "Muridwal",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8852335175,
+  "lat": 31.5589200,
+  "lon": 74.2266311,
+  "tags": {
+    "name": "بُرج",
+    "name:en": "Burj",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8852335195,
+  "lat": 31.4064689,
+  "lon": 74.3633759,
+  "tags": {
+    "name": "دولو خورد",
+    "name:en": "Dullu Khurd",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8852335196,
+  "lat": 31.4038282,
+  "lon": 74.3614602,
+  "tags": {
+    "name": "سیٹلائٹ ٹاون",
+    "name:en": "Satellite Town",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8852335198,
+  "lat": 31.4072443,
+  "lon": 74.3519991,
+  "tags": {
+    "name": "آصف ٹاؤن",
+    "name:en": "Asif Town",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8852335199,
+  "lat": 31.4182005,
+  "lon": 74.3268257,
+  "tags": {
+    "name": "گُجر کالونی",
+    "name:en": "Gujjar Colony",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8852335200,
+  "lat": 31.4273345,
+  "lon": 74.2988450,
+  "tags": {
+    "name": "باگڑیاں",
+    "name:en": "Bagrian",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 8856208328,
+  "lat": 31.4575507,
+  "lon": 74.2092713,
+  "tags": {
+    "name": "خان پور",
+    "name:en": "Khanpur",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8856208329,
+  "lat": 31.4655442,
+  "lon": 74.2007897,
+  "tags": {
+    "name": "شاہ پور کنجراہ",
+    "name:en": "Shahpur Kanjra",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8952395642,
+  "lat": 31.5860502,
+  "lon": 74.3235021,
+  "tags": {
+    "name": "Line Subhan Khan",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952413855,
+  "lat": 31.5835588,
+  "lon": 74.3261402,
+  "tags": {
+    "name": "Kucha Maali Taili",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952413867,
+  "lat": 31.5828556,
+  "lon": 74.3253779,
+  "tags": {
+    "name": "Haveli Mian Khan",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952413870,
+  "lat": 31.5819071,
+  "lon": 74.3269563,
+  "tags": {
+    "name": "Bairoon Dehli Gate",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952413871,
+  "lat": 31.5839406,
+  "lon": 74.3279558,
+  "tags": {
+    "name": "Kucha Mian Khair Din",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952413872,
+  "lat": 31.5834429,
+  "lon": 74.3277685,
+  "tags": {
+    "name": "Anderoon Yakki Gate",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952413880,
+  "lat": 31.5825889,
+  "lon": 74.3266657,
+  "tags": {
+    "name": "Katra Neem Wala",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952413881,
+  "lat": 31.5833459,
+  "lon": 74.3273803,
+  "tags": {
+    "name": "Kucha Deputy Aslam Shah",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952413923,
+  "lat": 31.5796657,
+  "lon": 74.3241611,
+  "tags": {
+    "name": "Kucha Molvi Mohammad Bakhsh",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952413939,
+  "lat": 31.5796048,
+  "lon": 74.3235538,
+  "tags": {
+    "name": "Mohalla Pir Makki",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952413943,
+  "lat": 31.5776341,
+  "lon": 74.3213840,
+  "tags": {
+    "name": "کوچہ لوہاراں",
+    "name:en": "Kucha Loharan",
+    "name:ur": "کوچہ لوہاراں",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952413960,
+  "lat": 31.5782783,
+  "lon": 74.3218190,
+  "tags": {
+    "name": "Mohalla Mughal Haveli",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952413975,
+  "lat": 31.5790348,
+  "lon": 74.3234316,
+  "tags": {
+    "name": "باغیچی صمدو",
+    "name:en": "Bagheechi Samdho",
+    "name:ur": "باغیچی صمدو",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952416382,
+  "lat": 31.5861135,
+  "lon": 74.3208247,
+  "tags": {
+    "name": "Kucha Rajputan",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952416390,
+  "lat": 31.5854717,
+  "lon": 74.3232401,
+  "tags": {
+    "name": "Mohalla Khizri",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952416411,
+  "lat": 31.5858081,
+  "lon": 74.3248229,
+  "tags": {
+    "name": "Nawan Mohalla",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952636156,
+  "lat": 31.5795565,
+  "lon": 74.3084469,
+  "tags": {
+    "name": "اسلام خان",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952636170,
+  "lat": 31.5803154,
+  "lon": 74.3088460,
+  "tags": {
+    "name": "محلہ پٹرنگاں",
+    "name:en": "Mohallah Patrangan",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952636178,
+  "lat": 31.5805911,
+  "lon": 74.3079262,
+  "tags": {
+    "name": "محلہ چومالہ",
+    "name:en": "Mohallah Chomala",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952636181,
+  "lat": 31.5808866,
+  "lon": 74.3088652,
+  "tags": {
+    "name": "Mohallah Taveela Sheikhan",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952640737,
+  "lat": 31.5819936,
+  "lon": 74.3090760,
+  "tags": {
+    "name": "Mohallah Zameer Shaheed",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952640742,
+  "lat": 31.5825695,
+  "lon": 74.3089966,
+  "tags": {
+    "name": "محلہ جوگی",
+    "name:en": "Mohallah Jogi",
+    "name:ur": "محلہ جوگی",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952640751,
+  "lat": 31.5832218,
+  "lon": 74.3078890,
+  "tags": {
+    "name": "Mohallah Samiyan",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952699740,
+  "lat": 31.5791418,
+  "lon": 74.3092751,
+  "tags": {
+    "name": "Mohallah Molana Roohi",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952699743,
+  "lat": 31.5788080,
+  "lon": 74.3105212,
+  "tags": {
+    "name": "Kucha Zail Daran",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952699749,
+  "lat": 31.5789403,
+  "lon": 74.3110019,
+  "tags": {
+    "name": "Kucha Kamboh Vehra",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952699779,
+  "lat": 31.5798616,
+  "lon": 74.3119178,
+  "tags": {
+    "name": "Kucha Muhammadian",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952699806,
+  "lat": 31.5800862,
+  "lon": 74.3120033,
+  "tags": {
+    "name": "Kucha Rang Raizan",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952745580,
+  "lat": 31.5794416,
+  "lon": 74.3127110,
+  "tags": {
+    "name": "Kucha Kallu",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952745606,
+  "lat": 31.5787579,
+  "lon": 74.3133453,
+  "tags": {
+    "name": "Kucha Illahi Buksh",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952746649,
+  "lat": 31.5795323,
+  "lon": 74.3104960,
+  "tags": {
+    "name": "محلہ اورنگزیب",
+    "name:en": "Mohallah Aurangzeb",
+    "name:ur": "محلہ اورنگزیب",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952746682,
+  "lat": 31.5796740,
+  "lon": 74.3111279,
+  "tags": {
+    "name": "Maidan Bhaiyan",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952779745,
+  "lat": 31.5856219,
+  "lon": 74.3097265,
+  "tags": {
+    "name": "Gaddi Mohallah",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952783547,
+  "lat": 31.5828346,
+  "lon": 74.3132795,
+  "tags": {
+    "name": "Kucha Darogah Nazol",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952783563,
+  "lat": 31.5830720,
+  "lon": 74.3126578,
+  "tags": {
+    "name": "Guggar Vehra",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952783570,
+  "lat": 31.5821339,
+  "lon": 74.3128780,
+  "tags": {
+    "alt_name:en": "Kucha Panj Peer",
+    "name": "کوچہ پنج پیر",
+    "name:en": "Kucha Panj Pir",
+    "name:ur": "کوچہ پنج پیر",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952855444,
+  "lat": 31.5874247,
+  "lon": 74.3184519,
+  "tags": {
+    "name": "Murad Ali Shah",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952855455,
+  "lat": 31.5871975,
+  "lon": 74.3190682,
+  "tags": {
+    "name": "Kucha Masoom Ali Shah",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952855499,
+  "lat": 31.5859540,
+  "lon": 74.3174288,
+  "tags": {
+    "name": "Khoi Borh Wali",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952855667,
+  "lat": 31.5855091,
+  "lon": 74.3180306,
+  "tags": {
+    "name": "Kucha Bahadurdin",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952855668,
+  "lat": 31.5852739,
+  "lon": 74.3165943,
+  "tags": {
+    "name": "Mohallah Barood Khana",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952855688,
+  "lat": 31.5851101,
+  "lon": 74.3176499,
+  "tags": {
+    "name": "Kucha Lub Shah Wali",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952895091,
+  "lat": 31.5855212,
+  "lon": 74.3214911,
+  "tags": {
+    "name": "Rara Tailiyaan",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952895094,
+  "lat": 31.5850046,
+  "lon": 74.3214324,
+  "tags": {
+    "name": "Kucha Khak Ruban",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952895533,
+  "lat": 31.5840165,
+  "lon": 74.3261369,
+  "tags": {
+    "name": "Katri Mian Mohammad Nadir",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952959128,
+  "lat": 31.5802853,
+  "lon": 74.3099566,
+  "tags": {
+    "alt_name:en": "Mohallah Jalotiyan",
+    "name": "محلہ جلوٹیاں",
+    "name:en": "Mohallah Jalotian",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952959163,
+  "lat": 31.5797076,
+  "lon": 74.3136457,
+  "tags": {
+    "name": "کوچہ خراسیاں",
+    "name:en": "Kucha Kharasian",
+    "name:ur": "کوچہ خراسیاں",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952959181,
+  "lat": 31.5800112,
+  "lon": 74.3146465,
+  "tags": {
+    "name": "Naya Mohallah",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8952959183,
+  "lat": 31.5803252,
+  "lon": 74.3131469,
+  "tags": {
+    "name": "Kucha Mian Ashiq",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8953105322,
+  "lat": 31.5832362,
+  "lon": 74.3141067,
+  "tags": {
+    "name": "مجلہ رادها كِشن",
+    "name:en": "Mohallah Radha Kishan",
+    "name:ur": "مجلہ رادها كِشن",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8953105342,
+  "lat": 31.5827253,
+  "lon": 74.3142340,
+  "tags": {
+    "name": "Kucha Maqsooden",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8953105343,
+  "lat": 31.5827297,
+  "lon": 74.3145717,
+  "tags": {
+    "name": "Kucha Haider Pehlwan",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8953105361,
+  "lat": 31.5825089,
+  "lon": 74.3148935,
+  "tags": {
+    "name": "Kucha Qadri",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8953105372,
+  "lat": 31.5836368,
+  "lon": 74.3156757,
+  "tags": {
+    "name": "Kucha Peer Mohammad Ali Shah",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8953105378,
+  "lat": 31.5830675,
+  "lon": 74.3161624,
+  "tags": {
+    "name": "Gujjar Gali",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8953105405,
+  "lat": 31.5831972,
+  "lon": 74.3177342,
+  "tags": {
+    "name": "کناری بازار",
+    "name:en": "Kinari Bazaar",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8953105406,
+  "lat": 31.5829356,
+  "lon": 74.3181444,
+  "tags": {
+    "name": "Kucha Tibbian",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8953157654,
+  "lat": 31.5841956,
+  "lon": 74.3087868,
+  "tags": {
+    "name": "Mohallah Kasurian",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8953157658,
+  "lat": 31.5846069,
+  "lon": 74.3087152,
+  "tags": {
+    "name": "محلہ سمیاں",
+    "name:en": "Mohallah Samian",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8954759571,
+  "lat": 31.5769765,
+  "lon": 74.3181016,
+  "tags": {
+    "name": "Pari Mahal",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8954759572,
+  "lat": 31.5766993,
+  "lon": 74.3190718,
+  "tags": {
+    "name": "Kucha Hawa Garan",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8954759591,
+  "lat": 31.5776596,
+  "lon": 74.3186090,
+  "tags": {
+    "name": "Dhal Mohallah",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8954759592,
+  "lat": 31.5775063,
+  "lon": 74.3203625,
+  "tags": {
+    "name": "Haveli Pathraan Wali",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955329807,
+  "lat": 31.5785469,
+  "lon": 74.3148610,
+  "tags": {
+    "name": "Mohallah Moalian",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955329808,
+  "lat": 31.5786015,
+  "lon": 74.3139087,
+  "tags": {
+    "name": "Kucha Shami Hoqan",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955329809,
+  "lat": 31.5788088,
+  "lon": 74.3152784,
+  "tags": {
+    "name": "Mohallah Chapay Garan",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955329810,
+  "lat": 31.5777537,
+  "lon": 74.3149840,
+  "tags": {
+    "name": "Naiza Moran",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955329811,
+  "lat": 31.5778760,
+  "lon": 74.3146111,
+  "tags": {
+    "name": "Kucha Haji Khuda Bakhash",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955333221,
+  "lat": 31.5776901,
+  "lon": 74.3139197,
+  "tags": {
+    "name": "Gali Munj Kuttan",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955333222,
+  "lat": 31.5774839,
+  "lon": 74.3142930,
+  "tags": {
+    "name": "Katra Taar Kashan",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955333224,
+  "lat": 31.5773682,
+  "lon": 74.3147385,
+  "tags": {
+    "name": "Chaapa Khana",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955333226,
+  "lat": 31.5770099,
+  "lon": 74.3162865,
+  "tags": {
+    "name": "Kucha Dogaran",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955333227,
+  "lat": 31.5770491,
+  "lon": 74.3155968,
+  "tags": {
+    "name": "Kucha Ghousia",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955333233,
+  "lat": 31.5793151,
+  "lon": 74.3149259,
+  "tags": {
+    "name": "Kucha Khwaja Farid",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955438521,
+  "lat": 31.5778140,
+  "lon": 74.3158735,
+  "tags": {
+    "name": "Nawab Abdul Majeed",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955438528,
+  "lat": 31.5776296,
+  "lon": 74.3166451,
+  "tags": {
+    "name": "Kucha Gopi Chand",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955438530,
+  "lat": 31.5777267,
+  "lon": 74.3166166,
+  "tags": {
+    "name": "Kucha Baal Mata",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955438531,
+  "lat": 31.5781408,
+  "lon": 74.3168179,
+  "tags": {
+    "name": "کوچہ کِرپا رام",
+    "name:en": "Kucha Kirpa Ram",
+    "name:ur": "کوچہ کرپا رام",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955438548,
+  "lat": 31.5784333,
+  "lon": 74.3159640,
+  "tags": {
+    "name": "Jora Mandi",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955438589,
+  "lat": 31.5781066,
+  "lon": 74.3160505,
+  "tags": {
+    "name": "Haveli Araiyan",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955459677,
+  "lat": 31.5807500,
+  "lon": 74.3115217,
+  "tags": {
+    "name": "Kucha Phalan Nanak",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955459678,
+  "lat": 31.5803259,
+  "lon": 74.3124942,
+  "tags": {
+    "name": "Ounchi Gali",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955459679,
+  "lat": 31.5811587,
+  "lon": 74.3101678,
+  "tags": {
+    "name": "Kucha Muhammad Saleh",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955503817,
+  "lat": 31.5825037,
+  "lon": 74.3180670,
+  "tags": {
+    "name": "Haingnan Gali",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955503818,
+  "lat": 31.5822641,
+  "lon": 74.3181031,
+  "tags": {
+    "name": "Kucha Dhoona",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955503819,
+  "lat": 31.5819955,
+  "lon": 74.3172383,
+  "tags": {
+    "name": "Kucha Katyalan",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955503820,
+  "lat": 31.5813676,
+  "lon": 74.3173554,
+  "tags": {
+    "name": "Kucha Chah Telian",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955503821,
+  "lat": 31.5792241,
+  "lon": 74.3171951,
+  "tags": {
+    "name": "Kucha Sidhu Misri",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955503850,
+  "lat": 31.5793970,
+  "lon": 74.3166516,
+  "tags": {
+    "name": "Kucha Dai Bholi",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955503902,
+  "lat": 31.5806867,
+  "lon": 74.3172375,
+  "tags": {
+    "name": "Kucha Gulzariwala",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955503903,
+  "lat": 31.5797784,
+  "lon": 74.3169860,
+  "tags": {
+    "name": "کوچہ بہادر کالی",
+    "name:en": "Kucha Bahadur Kali",
+    "name:ur": "کوچہ بہادر کالی",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955514534,
+  "lat": 31.5808469,
+  "lon": 74.3127690,
+  "tags": {
+    "name": "Kucha Bhagwan Das",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955514535,
+  "lat": 31.5809824,
+  "lon": 74.3131773,
+  "tags": {
+    "name": "Mohallah Daran",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955514539,
+  "lat": 31.5815339,
+  "lon": 74.3127124,
+  "tags": {
+    "name": "Khoi Vehra",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955514549,
+  "lat": 31.5821641,
+  "lon": 74.3122100,
+  "tags": {
+    "name": "محلہ ستھاں",
+    "name:en": "Mohallah Sathaan",
+    "name:ur": "محلہ ستھاں",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955514572,
+  "lat": 31.5826120,
+  "lon": 74.3138286,
+  "tags": {
+    "name": "Kucha Dhobian",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955514573,
+  "lat": 31.5820775,
+  "lon": 74.3148839,
+  "tags": {
+    "name": "کوچہ ہنومان",
+    "name:en": "Kucha Hanuman",
+    "name:ur": "کوچہ ہنومان",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955514574,
+  "lat": 31.5820074,
+  "lon": 74.3142321,
+  "tags": {
+    "name": "کوچہ اورنگزیب",
+    "name:en": "Kucha Aurangzeb",
+    "name:ur": "کوچہ اورنگزیب",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955514575,
+  "lat": 31.5820597,
+  "lon": 74.3137706,
+  "tags": {
+    "name": "Kucha Beli Ram",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955514589,
+  "lat": 31.5817797,
+  "lon": 74.3166340,
+  "tags": {
+    "name": "کوٹلی کپورہ",
+    "name:en": "Kotli Kapura",
+    "name:ur": "کوٹلی کپورہ",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955514601,
+  "lat": 31.5819571,
+  "lon": 74.3160447,
+  "tags": {
+    "name": "کوچہ ہری سنگھ",
+    "name:en": "Kucha Hari Singh",
+    "name:ur": "کوچہ ہری سنگھ",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955514602,
+  "lat": 31.5820463,
+  "lon": 74.3155557,
+  "tags": {
+    "name": "Gali Garanthian",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955514603,
+  "lat": 31.5815640,
+  "lon": 74.3155755,
+  "tags": {
+    "alt_name:en": "Kucha Durgadas",
+    "name": "کوچہ درگا داس",
+    "name:en": "Kucha Durga Das",
+    "name:ur": "کوچہ درگا داس",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955514604,
+  "lat": 31.5812676,
+  "lon": 74.3156653,
+  "tags": {
+    "name": "Kucha Chaudhrian",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955551628,
+  "lat": 31.5807205,
+  "lon": 74.3106840,
+  "tags": {
+    "name": "Kucha Shah Inayat",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955565598,
+  "lat": 31.5801555,
+  "lon": 74.3137391,
+  "tags": {
+    "name": "Kucha Madni",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955601818,
+  "lat": 31.5836678,
+  "lon": 74.3100082,
+  "tags": {
+    "name": "محلہ حکیماں",
+    "name:en": "Mohallah Hakeema",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955601819,
+  "lat": 31.5832551,
+  "lon": 74.3099687,
+  "tags": {
+    "name": "Jogi Teer Khana",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955601865,
+  "lat": 31.5852104,
+  "lon": 74.3134734,
+  "tags": {
+    "name": "Langa Mandi",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955601866,
+  "lat": 31.5851433,
+  "lon": 74.3141472,
+  "tags": {
+    "name": "Haveli Topi Maashqi",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955601867,
+  "lat": 31.5850237,
+  "lon": 74.3149650,
+  "tags": {
+    "name": "Neween Gali",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955601889,
+  "lat": 31.5846813,
+  "lon": 74.3158431,
+  "tags": {
+    "name": "Mohallah Shamsuddin",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8955601953,
+  "lat": 31.5847601,
+  "lon": 74.3166528,
+  "tags": {
+    "name": "Kucha Mian Juma",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8961046822,
+  "lat": 31.5814708,
+  "lon": 74.3218887,
+  "tags": {
+    "name": "کٹرہ والی شاہ",
+    "name:en": "Katra Wali Shah",
+    "name:ur": "کٹرہ والی شاہ",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8961046824,
+  "lat": 31.5808985,
+  "lon": 74.3217918,
+  "tags": {
+    "name": "Kucha Allah Wala Khan",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8961121824,
+  "lat": 31.5806213,
+  "lon": 74.3225296,
+  "tags": {
+    "alt_name:ur": "محلہ چہل بیبیاں",
+    "name": "محلہ چلّہ بی بیاں",
+    "name:en": "Mohallah Chehal Bibiyaan",
+    "name:ur": "محلہ چلّہ بیبیاں",
+    "old_name": "Mohalla Chala Bibian",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8961121841,
+  "lat": 31.5814343,
+  "lon": 74.3232520,
+  "tags": {
+    "name": "Kucha Sheikh Wasawan",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8961121874,
+  "lat": 31.5816595,
+  "lon": 74.3234440,
+  "tags": {
+    "name": "چوہٹہ مفتی باقر",
+    "name:en": "Chohattah Mufti Baqar",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8961121891,
+  "lat": 31.5821280,
+  "lon": 74.3235857,
+  "tags": {
+    "name": "کوچہ اللہ جوایا",
+    "name:en": "Kucha Allah Jawaya",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8961121892,
+  "lat": 31.5827924,
+  "lon": 74.3239109,
+  "tags": {
+    "name": "کوچہ حسین شاہ",
+    "name:en": "Kucha Hussain Shah",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8961159941,
+  "lat": 31.5810070,
+  "lon": 74.3164772,
+  "tags": {
+    "name": "Kucha Mehtay",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8961518748,
+  "lat": 31.5814954,
+  "lon": 74.3237853,
+  "tags": {
+    "name": "Kucha Kachiwan",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8961518749,
+  "lat": 31.5816937,
+  "lon": 74.3240627,
+  "tags": {
+    "name": "خرادی محلہ",
+    "name:en": "Kharadi Mohallah",
+    "name:ur": "خرادی محلہ",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8961518750,
+  "lat": 31.5824956,
+  "lon": 74.3204548,
+  "tags": {
+    "name": "کٹرہ رحمان شاہ",
+    "name:en": "Katra Rehman Shah",
+    "name:ur": "کٹرہ رحمان شاہ",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8961518751,
+  "lat": 31.5821419,
+  "lon": 74.3205770,
+  "tags": {
+    "name": "Katra Cheetewala",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8961518776,
+  "lat": 31.5832261,
+  "lon": 74.3215635,
+  "tags": {
+    "name": "Katra Wasi",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8961536045,
+  "lat": 31.5823868,
+  "lon": 74.3207347,
+  "tags": {
+    "name": "Katra Soneawala",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8961536076,
+  "lat": 31.5818034,
+  "lon": 74.3211700,
+  "tags": {
+    "name": "Marzayan Di Katri",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8961584263,
+  "lat": 31.5818162,
+  "lon": 74.3194982,
+  "tags": {
+    "name": "Kucha Killi Khana",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8961588463,
+  "lat": 31.5797027,
+  "lon": 74.3213615,
+  "tags": {
+    "name": "Kucha Mian Gaman",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8961808291,
+  "lat": 31.5835752,
+  "lon": 74.3240629,
+  "tags": {
+    "name": "Ahata Sarbuland",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9031673145,
+  "lat": 31.5836731,
+  "lon": 74.3189573,
+  "tags": {
+    "name": "Bazaar Billa Kabotarbaaz",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9291514157,
+  "lat": 31.5781858,
+  "lon": 74.3194412,
+  "tags": {
+    "name": "Nawan Mohalla",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9292561442,
+  "lat": 31.5803708,
+  "lon": 74.3159645,
+  "tags": {
+    "name": "Kucha Gasaiyan",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9313211939,
+  "lat": 31.5767448,
+  "lon": 74.4304291,
+  "tags": {
+    "name": "قلندر پورہ",
+    "name:en": "Qalander Pura",
+    "name:hi": "कलंदरपुरा",
+    "name:ur": "قلندر پورہ",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9313211940,
+  "lat": 31.5672037,
+  "lon": 74.4324346,
+  "tags": {
+    "name": "جلال کالونی",
+    "name:en": "Jalal Colony",
+    "name:ur": "جلال کالونی",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9313211941,
+  "lat": 31.5436819,
+  "lon": 74.4192021,
+  "tags": {
+    "name": "گُلدشت ٹاؤن",
+    "name:en": "Guldasht Town",
+    "name:ur": "گلدشت ٹاؤن",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9313211944,
+  "lat": 31.5489338,
+  "lon": 74.4043959,
+  "tags": {
+    "name": "الفیصل ٹاؤن",
+    "name:en": "Al-Faisal Town",
+    "name:hi": "अल-फैसल टाउन",
+    "name:ur": "الفیصل ٹاؤن",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9313211945,
+  "lat": 31.5613435,
+  "lon": 74.4080504,
+  "tags": {
+    "name": "تاج پُورہ",
+    "name:hi": "ताजपुरा",
+    "name:ur": "تاج پورہ",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9313233689,
+  "lat": 31.5514112,
+  "lon": 74.4205509,
+  "tags": {
+    "name": "عزیز بھٹی ٹاؤن",
+    "name:en": "Aziz Bhatti Town",
+    "name:hi": "अज़ीज़ भट्टी टाउन",
+    "name:ur": "عزیز بھٹی ٹاؤن",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9313233690,
+  "lat": 31.5444300,
+  "lon": 74.4242956,
+  "tags": {
+    "name": "گُجر پُورہ",
+    "name:en": "Gujjar Pura",
+    "name:hi": "गुज्जरपुरा",
+    "name:ur": "گُجر پورہ",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9313233692,
+  "lat": 31.5304733,
+  "lon": 74.4531582,
+  "tags": {
+    "name": "پیراگون سٹی",
+    "name:en": "Paragon City",
+    "name:ur": "پیراگون سٹی",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9313233693,
+  "lat": 31.5353759,
+  "lon": 74.4171308,
+  "tags": {
+    "name": "عسکری 10",
+    "name:en": "Askari X",
+    "name:hi": "अस्करी 10",
+    "name:ur": "عسکری ۱۰",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9313233694,
+  "lat": 31.4927778,
+  "lon": 74.4277851,
+  "tags": {
+    "name": "گوہاوہ",
+    "name:en": "Gohawa",
+    "name:ur": "گوہاوہ",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9313233695,
+  "lat": 31.4978629,
+  "lon": 74.4295594,
+  "tags": {
+    "name": "گرین اوینیو",
+    "name:en": "Green Avenue",
+    "name:ur": "گرین اوینیو",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9313233696,
+  "lat": 31.4738599,
+  "lon": 74.4354062,
+  "tags": {
+    "name": "چاچو والی",
+    "name:en": "Chachowali",
+    "name:ur": "چاچو والی",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9313233697,
+  "lat": 31.4822814,
+  "lon": 74.4268823,
+  "tags": {
+    "name": "اسمائیل پورہ",
+    "name:en": "Isma'il Pura",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9313233698,
+  "lat": 31.4830543,
+  "lon": 74.4225366,
+  "tags": {
+    "name": "حاجی پارک",
+    "name:en": "Haji Park",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9313272808,
+  "lat": 31.5960692,
+  "lon": 74.2983222,
+  "tags": {
+    "name": "قصورپورہ",
+    "name:en": "Qasurpura",
+    "name:hi": "कसूरपुरा",
+    "name:ur": "قصورپورہ",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9313272809,
+  "lat": 31.6003883,
+  "lon": 74.3102567,
+  "tags": {
+    "name": "قلعہ لچمن سنگھ",
+    "name:en": "Qila Lachman Singh",
+    "name:hi": "किला लक्ष्मण सिंह",
+    "name:ur": "قلعہ لچمن سنگھ",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9313272810,
+  "lat": 31.6058851,
+  "lon": 74.3129511,
+  "tags": {
+    "name": "حنیف پارک",
+    "name:en": "Hanif Park",
+    "name:ur": "حنیف پارک",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9314663083,
+  "lat": 31.4248469,
+  "lon": 74.2008497,
+  "tags": {
+    "name": "ناصرگنج",
+    "name:en": "Nasir Ganj",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9314663084,
+  "lat": 31.4309938,
+  "lon": 74.2112409,
+  "tags": {
+    "name": "نوازش آباد",
+    "name:en": "Nawazishabad",
+    "name:ur": "نوازش آباد",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9314663085,
+  "lat": 31.4337487,
+  "lon": 74.2211790,
+  "tags": {
+    "name": "حسین آباد",
+    "name:en": "Hussainabad",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9314663086,
+  "lat": 31.4330046,
+  "lon": 74.2310617,
+  "tags": {
+    "name": "علی رضا آباد",
+    "name:en": "Ali Raza Abad",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9314663087,
+  "lat": 31.4424452,
+  "lon": 74.2273243,
+  "tags": {
+    "name": "برکت پور",
+    "name:en": "Barkatpura",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9314663088,
+  "lat": 31.4423643,
+  "lon": 74.2346076,
+  "tags": {
+    "name": "حسن آباد",
+    "name:en": "Hasanabad",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9314663089,
+  "lat": 31.4441472,
+  "lon": 74.2394885,
+  "tags": {
+    "name": "رحیم آباد",
+    "name:en": "Rahimabad",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9314663090,
+  "lat": 31.4512179,
+  "lon": 74.2441338,
+  "tags": {
+    "name": "کچی کوٹھی",
+    "name:en": "Katchi Kothi",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9314663091,
+  "lat": 31.4553839,
+  "lon": 74.2545799,
+  "tags": {
+    "name": "نصیراباد",
+    "name:en": "Nasirabad",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9314663092,
+  "lat": 31.4623443,
+  "lon": 74.2550698,
+  "tags": {
+    "name": "رسول پور",
+    "name:en": "Rasoolpur",
+    "name:hi": "रसूलपुर",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9314663093,
+  "lat": 31.4447156,
+  "lon": 74.2634110,
+  "tags": {
+    "name": "لالو وال",
+    "name:en": "Laluwal",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 9314663094,
+  "lat": 31.4366213,
+  "lon": 74.2536817,
+  "tags": {
+    "name": "کھمبے",
+    "name:en": "Khumbe",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9314681412,
+  "lat": 31.5870801,
+  "lon": 74.4300738,
+  "tags": {
+    "name": "واڑہ گجراں",
+    "name:en": "Wara Gujjran",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9314681413,
+  "lat": 31.5810631,
+  "lon": 74.4387669,
+  "tags": {
+    "name": "کوٹلی غازی",
+    "name:en": "Kotli Ghazi",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9314681414,
+  "lat": 31.5655949,
+  "lon": 74.4668701,
+  "tags": {
+    "name": "بھگوان پورہ",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9314681415,
+  "lat": 31.5821176,
+  "lon": 74.4166785,
+  "tags": {
+    "name": "سلامت پورہ",
+    "name:en": "Salamatpura",
+    "name:hi": "सलामतपुरा",
+    "name:ur": "سلامت پورہ",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9314681416,
+  "lat": 31.5671420,
+  "lon": 74.3952225,
+  "tags": {
+    "name": "نبی پورہ",
+    "name:en": "Nabi Pura",
+    "name:hi": "नबीपुरा",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9314689635,
+  "lat": 31.5751171,
+  "lon": 74.4252518,
+  "tags": {
+    "name": "ہربنس پُورہ",
+    "name:en": "Harbanspura",
+    "name:hi": "हरबंसपुरा",
+    "name:ur": "ہربنس پورہ",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9325952207,
+  "lat": 31.6583094,
+  "lon": 74.2807933,
+  "tags": {
+    "name": "فیروزوالہ",
+    "name:ar": "فيروزوالا",
+    "name:en": "Ferozewala",
+    "name:fa": "فیروزواله",
+    "name:hi": "फिरोज़वाला",
+    "name:ml": "ഫിറോസ്വാല",
+    "name:pnb": "فیروزوالہ",
+    "name:ur": "فیروزوالہ",
+    "place": "city"
+  }
+},
+{
+  "type": "node",
+  "id": 9354965761,
+  "lat": 31.5813010,
+  "lon": 74.3212066,
+  "tags": {
+    "name": "تکیۂ سادھواں",
+    "name:en": "Takia Sadhuan",
+    "name:ur": "تکیہ سادھواں",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9355073149,
+  "lat": 31.5164952,
+  "lon": 74.3074451,
+  "tags": {
+    "name": "وحدت کالونی",
+    "name:en": "Wahdat Colony",
+    "name:hi": "वहदत कॉलोनी",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9355073150,
+  "lat": 31.5162255,
+  "lon": 74.2818926,
+  "tags": {
+    "name": "نرگس بلاک",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9355073151,
+  "lat": 31.5148078,
+  "lon": 74.2844994,
+  "tags": {
+    "name": "رچنا بلاک",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9355073152,
+  "lat": 31.5180822,
+  "lon": 74.2875583,
+  "tags": {
+    "name": "کشمیر بلاک",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9355073153,
+  "lat": 31.5208337,
+  "lon": 74.2825581,
+  "tags": {
+    "name": "زینت بلاک",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9355073154,
+  "lat": 31.5224840,
+  "lon": 74.2858041,
+  "tags": {
+    "name": "ہما بلاک",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9355073155,
+  "lat": 31.5138329,
+  "lon": 74.2960612,
+  "tags": {
+    "name": "ہُنزہ بلاک",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9355073156,
+  "lat": 31.5122358,
+  "lon": 74.2949969,
+  "tags": {
+    "name": "نجف کالونی",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9355073157,
+  "lat": 31.5105362,
+  "lon": 74.2984899,
+  "tags": {
+    "name": "کالج بلاک",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9355073158,
+  "lat": 31.5093370,
+  "lon": 74.2837512,
+  "tags": {
+    "name": "عُمر بلاک",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9355073159,
+  "lat": 31.5055563,
+  "lon": 74.2855993,
+  "tags": {
+    "name": "رضا بلاک",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9355073160,
+  "lat": 31.5119690,
+  "lon": 74.2780625,
+  "tags": {
+    "name": "راوی بلاک",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9355073161,
+  "lat": 31.5169957,
+  "lon": 74.2788910,
+  "tags": {
+    "name": "بدر بلاک",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9355073162,
+  "lat": 31.5199045,
+  "lon": 74.2768691,
+  "tags": {
+    "name": "سعید پُور",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9357588038,
+  "lat": 31.5783908,
+  "lon": 74.3201941,
+  "tags": {
+    "name": "محلہ تیر گراں",
+    "name:en": "Mohallah Teer Garan",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9357588039,
+  "lat": 31.5776369,
+  "lon": 74.3221154,
+  "tags": {
+    "name": "لال کھوہ",
+    "name:en": "Lal Khu",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9357710312,
+  "lat": 31.5795682,
+  "lon": 74.3209058,
+  "tags": {
+    "name": "کوچہ ماشکیاں",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9390999609,
+  "lat": 31.5826034,
+  "lon": 74.3242258,
+  "tags": {
+    "name": "گوندی گلی",
+    "name:en": "Gondi Gali",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9391017610,
+  "lat": 31.5807792,
+  "lon": 74.3148208,
+  "tags": {
+    "name": "Mohallah Pir Bhola",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9391022970,
+  "lat": 31.5826316,
+  "lon": 74.3224366,
+  "tags": {
+    "name": "محلہ ککے زیاں",
+    "name:en": "Mohalla Kakezian",
+    "name:ur": "محلہ ککے زیاں",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9393925152,
+  "lat": 31.6057085,
+  "lon": 74.2121441,
+  "tags": {
+    "name": "بُھلّےاندرون",
+    "name:en": "Bhullay Androon",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9393925153,
+  "lat": 31.6161788,
+  "lon": 74.2115346,
+  "tags": {
+    "name": "Thatha Khudayar",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9395371810,
+  "lat": 31.4995501,
+  "lon": 74.3596686,
+  "tags": {
+    "name": "گُلبہار کالونی",
+    "name:en": "Gulbahar Colony",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9395404996,
+  "lat": 31.4892068,
+  "lon": 74.3413072,
+  "tags": {
+    "name": "بھابڑہ",
+    "name:en": "Bhabra",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9395407174,
+  "lat": 31.4876667,
+  "lon": 74.3455811,
+  "tags": {
+    "name": "گوپال نگر",
+    "name:en": "Gopal Nagar",
+    "name:hi": "गोपाल नगर",
+    "name:ur": "گوپال نگر",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9395409995,
+  "lat": 31.4660679,
+  "lon": 74.2771757,
+  "tags": {
+    "name": "سمسانی کھوئی",
+    "name:en": "Samsani Khui",
+    "name:hi": "समसानी खुई",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9395441212,
+  "lat": 31.4940455,
+  "lon": 74.4972879,
+  "tags": {
+    "name": "بہادر سنگھ والا",
+    "name:en": "Bahadur Singhwala",
+    "name:ur": "بہادر سنگھ والا",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9395452789,
+  "lat": 31.5194200,
+  "lon": 74.4564291,
+  "tags": {
+    "name": "کلاس ماڑی",
+    "name:en": "Kalas Mari",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9395490986,
+  "lat": 31.5405473,
+  "lon": 74.4962499,
+  "tags": {
+    "name": "دھوری",
+    "name:en": "Dhoori",
+    "name:ur": "دھوری",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9395506169,
+  "lat": 31.5961958,
+  "lon": 74.4997603,
+  "tags": {
+    "name": "جلو منہالہ موڑ",
+    "name:en": "Jallo Manhala More",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9395519145,
+  "lat": 31.5966481,
+  "lon": 74.4594299,
+  "tags": {
+    "name": "گوپال پورہ",
+    "name:en": "Gopal Pura",
+    "name:hi": "गोपालपुरा",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9395583564,
+  "lat": 31.5961151,
+  "lon": 74.4872205,
+  "tags": {
+    "alt_name": "Manawan",
+    "name": "مناواں",
+    "name:en": "Manawan",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9395583565,
+  "lat": 31.5877286,
+  "lon": 74.4476220,
+  "tags": {
+    "name": "کوٹ دونی چند",
+    "name:en": "Kot Duni Chand",
+    "name:ur": "کوٹ دونی چند",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9395625034,
+  "lat": 31.4478281,
+  "lon": 74.4354694,
+  "tags": {
+    "name": "روڑانوالہ",
+    "name:en": "Roranwala",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9395625035,
+  "lat": 31.4378125,
+  "lon": 74.4023045,
+  "tags": {
+    "name": "جٹھول",
+    "name:en": "Jathol",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9438700392,
+  "lat": 31.5819717,
+  "lon": 74.3095337,
+  "tags": {
+    "name": "موتی ٹبہ",
+    "name:en": "Moti Tibba",
+    "name:ur": "موتی ٹبہ",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9884398890,
+  "lat": 31.5699098,
+  "lon": 74.3191046,
+  "tags": {
+    "name": "احاطہ کشن کشور",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9884420613,
+  "lat": 31.5807942,
+  "lon": 74.3250733,
+  "tags": {
+    "name": "Haveli Misran",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9886000826,
+  "lat": 31.5607323,
+  "lon": 74.3601525,
+  "tags": {
+    "name": "محلہ قصاباں",
+    "name:en": "Mohalla Qasaban",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9886372515,
+  "lat": 31.5749458,
+  "lon": 74.3193648,
+  "tags": {
+    "name": "گرو ارجن نگر",
+    "name:en": "Guru Arjan Nagar",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9886467889,
+  "lat": 31.5674577,
+  "lon": 74.3302918,
+  "tags": {
+    "name": "امرت پارک",
+    "name:en": "Amrit Park",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9886467893,
+  "lat": 31.5660532,
+  "lon": 74.3307628,
+  "tags": {
+    "name": "میلا رام پارک",
+    "name:en": "Mela Ram Park",
+    "name:ur": "میلا رام پارک",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9886467896,
+  "lat": 31.5654401,
+  "lon": 74.3329867,
+  "tags": {
+    "name": "عثمانیہ کالونی",
+    "name:en": "Usmania Colony",
+    "name:ur": "عثمانیہ کالونی",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9886467898,
+  "lat": 31.5668105,
+  "lon": 74.3346959,
+  "tags": {
+    "name": "محمد نگر",
+    "name:en": "Muhammad Nagar",
+    "name:ur": "محمد نگر",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9887922792,
+  "lat": 31.5647147,
+  "lon": 74.3381902,
+  "tags": {
+    "name": "بی بی پاک دامن",
+    "name:en": "Bibi Pak Daman",
+    "name:hi": "बीबी पाक दामन",
+    "name:ur": "بی بی پاک دامن",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9890918744,
+  "lat": 31.5742967,
+  "lon": 74.3166668,
+  "tags": {
+    "name": "سرائے رتن چند",
+    "name:en": "Sarai Rattan Chand",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9890928616,
+  "lat": 31.5533302,
+  "lon": 74.3136602,
+  "tags": {
+    "name": "تکیہ سردار شاہ",
+    "name:en": "Takiya Sardar Shah",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9890962218,
+  "lat": 31.5508689,
+  "lon": 74.3164710,
+  "tags": {
+    "name": "Shahdab Colony",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9890962241,
+  "lat": 31.5522518,
+  "lon": 74.2970303,
+  "tags": {
+    "alt_name": "نیو چوبر جی پارک;نیا چوبرجی پارک",
+    "name": "نیو چوبرجی پارک",
+    "name:en": "New Chauburji Park",
+    "name:hi": "नया चौबुर्जी पार्क",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9898394264,
+  "lat": 31.5817073,
+  "lon": 74.3145647,
+  "tags": {
+    "name": "Kucha Vahrian",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 10681199546,
+  "lat": 31.4871567,
+  "lon": 74.4095369,
+  "tags": {
+    "name": "Real Cottages",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 10961114279,
+  "lat": 31.5677005,
+  "lon": 74.3245651,
+  "tags": {
+    "name": "Heritage Wall",
+    "place": "plot"
+  }
+},
+{
+  "type": "node",
+  "id": 11539937763,
+  "lat": 31.6531425,
+  "lon": 74.4971809,
+  "tags": {
+    "name": "Dera Peer Mandiana",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 11619833783,
+  "lat": 31.4259857,
+  "lon": 74.2935434,
+  "tags": {
+    "name": "Bagrian Dharam Chand",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 11619859311,
+  "lat": 31.4640858,
+  "lon": 74.4899292,
+  "tags": {
+    "name": "سنگت پورہ",
+    "name:en": "Sangatpura",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 11619859328,
+  "lat": 31.5138338,
+  "lon": 74.4823656,
+  "tags": {
+    "name": "Rakh Bhangali",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 11620211633,
+  "lat": 31.6177436,
+  "lon": 74.3455348,
+  "tags": {
+    "name": "جُھگیاں جوڈھا",
+    "name:en": "Jhuggian Jodha",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 11620234731,
+  "lat": 31.5994178,
+  "lon": 74.3200813,
+  "tags": {
+    "name": "بیلہ بستی رام",
+    "name:en": "Bela Basti Ram",
+    "name:hi": "बेला बस्ती राम",
+    "name:ur": "بیلہ بستی رام",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 11620239365,
+  "lat": 31.5880041,
+  "lon": 74.3994553,
+  "tags": {
+    "name": "دیوی پورہ",
+    "name:en": "Devi Pura",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 11620239366,
+  "lat": 31.5883839,
+  "lon": 74.4423176,
+  "tags": {
+    "name": "Kot Dhani Chand",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 11620239367,
+  "lat": 31.5761401,
+  "lon": 74.3635019,
+  "tags": {
+    "name": "Achint Ghar",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 11621433836,
+  "lat": 31.5986328,
+  "lon": 74.3190645,
+  "tags": {
+    "name": "داتا نگر",
+    "name:en": "Data Nagar",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 11621601885,
+  "lat": 31.5996242,
+  "lon": 74.4992700,
+  "tags": {
+    "name": "Dogran Kalan",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 11621601886,
+  "lat": 31.5999994,
+  "lon": 74.4917422,
+  "tags": {
+    "name": "Attoke Awan",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 11621601887,
+  "lat": 31.5917744,
+  "lon": 74.4763649,
+  "tags": {
+    "name": "Kot Kamboh",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 11621601892,
+  "lat": 31.6062538,
+  "lon": 74.3496328,
+  "tags": {
+    "name": "Bhaman",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 12219898610,
+  "lat": 31.5787825,
+  "lon": 74.3306712,
+  "tags": {
+    "name": "سرائے سلطان",
+    "name:en": "Sarai Sultan",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 12223017123,
+  "lat": 31.5737511,
+  "lon": 74.3268019,
+  "tags": {
+    "alt_name:en": "Prem Gali",
+    "name": "پریم سٹریٹ",
+    "name:en": "Prem Street",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 12223034782,
+  "lat": 31.5734408,
+  "lon": 74.3288703,
+  "tags": {
+    "name": "Pathi Ground",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 12245167746,
+  "lat": 31.5645997,
+  "lon": 74.3076404,
+  "tags": {
+    "name": "پرانی انارکلی",
+    "name:en": "Old Anarkali",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 12251235987,
+  "lat": 31.5832243,
+  "lon": 74.3610367,
+  "tags": {
+    "name": "Suchal Singhpura",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 12251597195,
+  "lat": 31.5798703,
+  "lon": 74.3478772,
+  "tags": {
+    "name": "سوامی نگر",
+    "name:en": "Swami Nagar",
+    "name:hi": "स्वामी नगर",
+    "name:ur": "سوامی نگر",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 12447220761,
+  "lat": 31.4599165,
+  "lon": 74.2346302,
+  "tags": {
+    "addr:city": "Thokar Niaz Baig, Lahore",
+    "addr:postcode": "54000",
+    "addr:street": "Abdul Sattar Edhi Road, Peace Home Society",
+    "amenity": "events_venue",
+    "internet_access": "yes",
+    "internet_access:fee": "customers",
+    "name": "Peace Garden",
+    "opening_hours": "24/7",
+    "place": "Event Venue"
+  }
+},
+{
+  "type": "node",
+  "id": 13546891252,
+  "lat": 31.5843881,
+  "lon": 74.4979035,
+  "tags": {
+    "name": "Khaira",
+    "name:ur": "کھیرا گاؤں",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 13931155115,
+  "lat": 31.6262165,
+  "lon": 74.2362605,
+  "tags": {
+    "name": "شرقپور خرچ",
+    "name:en": "Sharqpur Khurd",
+    "name:ur": "شرقپور خرچ",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 13931173870,
+  "lat": 31.6195886,
+  "lon": 74.2873302,
+  "tags": {
+    "name": "جیا موسیٰ",
+    "name:en": "Jia Musa",
+    "name:ur": "جیا موسیٰ",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 13931198938,
+  "lat": 31.6102905,
+  "lon": 74.2826920,
+  "tags": {
+    "name": "تارگڑھ",
+    "name:ur": "تارگڑھ",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 13931208822,
+  "lat": 31.6157595,
+  "lon": 74.2646905,
+  "tags": {
+    "name": "بیگم کوٹ",
+    "name:en": "Kot Begum",
+    "name:ur": "بیگم کوٹ",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 13962040105,
+  "lat": 31.5693781,
+  "lon": 74.3121618,
+  "tags": {
+    "description": "Formerly the tomb of Hazrat Abdul Razzaq Makki, built in 1673 and used as storage during the Sikh Period and East India period\nThis historical name not formally used and recognised. its called Nila Gumbad officially and locally",
+    "name": "King Edward's Square",
+    "place": "square"
+  }
+},
+{
+  "type": "node",
+  "id": 13969989195,
+  "lat": 31.4988497,
+  "lon": 74.3420955,
+  "tags": {
+    "addr:suburb": "Walton",
+    "name": "CBD Walton",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 13969989533,
+  "lat": 31.4836270,
+  "lon": 74.3259916,
+  "tags": {
+    "name": "ماڈل ٹاؤن",
+    "name:en": "Model Town",
+    "name:hi": "मॉडल टाउन",
+    "name:ur": "ماڈل ٹاون",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 13970057717,
+  "lat": 31.4791197,
+  "lon": 74.3122763,
+  "tags": {
+    "addr:suburb": "Model Town",
+    "name": "GOR 4",
+    "official_name": "Government Officers Residence 4",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13970057718,
+  "lat": 31.4753533,
+  "lon": 74.3359819,
+  "tags": {
+    "name": "View Housing Scheme",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13970057719,
+  "lat": 31.4758002,
+  "lon": 74.3363432,
+  "tags": {
+    "name": "Alamgir Villas",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13970057720,
+  "lat": 31.4744613,
+  "lon": 74.3381482,
+  "tags": {
+    "name": "Bahar Colony",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13970057721,
+  "lat": 31.4701417,
+  "lon": 74.3361117,
+  "tags": {
+    "name": "Dilkusha Gardens",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13994414290,
+  "lat": 31.4632247,
+  "lon": 74.2459575,
+  "tags": {
+    "addr:city": "Lahroe",
+    "name": "علی ٹاؤن",
+    "name:en": "Ali Town",
+    "name:ur": "علی ٹاؤن",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 13994414291,
+  "lat": 31.4676446,
+  "lon": 74.2445535,
+  "tags": {
+    "addr:city": "Lahroe",
+    "name": "عدالتی کالونی مرحلہ 1",
+    "name:en": "Judicial Colony Phase 1",
+    "name:ur": "عدالتی کالونی مرحلہ 1",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 13994414292,
+  "lat": 31.4625377,
+  "lon": 74.2492584,
+  "tags": {
+    "addr:city": "Lahroe",
+    "name": "عدالتی کالونی مرحلہ 2",
+    "name:en": "Judicial Colony Phase 2",
+    "name:ur": "عدالتی کالونی مرحلہ 2",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 14026501943,
+  "lat": 31.5625469,
+  "lon": 74.3283765,
+  "tags": {
+    "name": "ڈونلڈ ٹاؤن",
+    "name:en": "Donald Town",
+    "name:hi": "डोनाल्ड टाउन",
+    "name:ur": "ڈونلڈ ٹاؤن",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 14026695947,
+  "lat": 31.4718144,
+  "lon": 74.2538657,
+  "tags": {
+    "addr:city": "Lahore",
+    "name": "سن فلاور ہاؤسنگ سوسائٹی",
+    "name:en": "Sunflower Housing Society",
+    "name:ur": "سن فلاور ہاؤسنگ سوسائٹی",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 14026711298,
+  "lat": 31.4766439,
+  "lon": 74.2754262,
+  "tags": {
+    "addr:city": "Lahore",
+    "name": "عزیزیہ ٹاؤن",
+    "name:en": "Azizia Town",
+    "name:ur": "عزیزیہ ٹاؤن",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 14026711299,
+  "lat": 31.4805475,
+  "lon": 74.2841562,
+  "tags": {
+    "addr:city": "Lahore",
+    "name": "جوہر ایونیو",
+    "name:en": "Johar Avenue",
+    "name:ur": "جوہر ایونیو",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 14026711300,
+  "lat": 31.4804449,
+  "lon": 74.2873737,
+  "tags": {
+    "name": "جوہر ویو",
+    "name:en": "Johar View",
+    "name:ur": "جوہر ویو",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 14026845977,
+  "lat": 31.4744525,
+  "lon": 74.2930804,
+  "tags": {
+    "name": "اسلام پارک",
+    "name:en": "Islam Park",
+    "name:ur": "اسلام پارک",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14026845978,
+  "lat": 31.4748292,
+  "lon": 74.2936994,
+  "tags": {
+    "name": "عبداللہ ٹاؤن",
+    "name:en": "Abdullah Town",
+    "name:ur": "عبداللہ ٹاؤن",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14026845979,
+  "lat": 31.4753520,
+  "lon": 74.2955385,
+  "tags": {
+    "name": "بسم اللہ ویلفیئر سوسائٹی",
+    "name:en": "Bismillah Welfare Society",
+    "name:ur": "بسم اللہ ویلفیئر سوسائٹی",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14026845980,
+  "lat": 31.4744208,
+  "lon": 74.2953845,
+  "tags": {
+    "name": "جوہر ولاز",
+    "name:en": "Johar Villas",
+    "name:ur": "جوہر ولاز",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 14026846501,
+  "lat": 31.4815760,
+  "lon": 74.2886609,
+  "tags": {
+    "name": "فاطمہ ہومز",
+    "name:en": "Fatima Homes",
+    "name:ur": "فاطمہ ہومز",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14026846502,
+  "lat": 31.4787899,
+  "lon": 74.2888462,
+  "tags": {
+    "name": "آئیڈیل ہومز",
+    "name:en": "Ideal Homes",
+    "name:ur": "آئیڈیل ہومز",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14026846503,
+  "lat": 31.4783796,
+  "lon": 74.2888015,
+  "tags": {
+    "addr:city": "Lahore",
+    "name": "اظہار ولاز",
+    "name:en": "Izhar Villas",
+    "name:ur": "اظہار ولاز",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14026846504,
+  "lat": 31.4798321,
+  "lon": 74.2906716,
+  "tags": {
+    "name": "وفاقی کالونی",
+    "name:en": "Wafaqi Colony",
+    "name:ur": "وفاقی کالونی",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 14026850160,
+  "lat": 31.4792244,
+  "lon": 74.2947699,
+  "tags": {
+    "name": "دھنا سنگھ والا",
+    "name:en": "Dhana Singh Wala",
+    "name:ur": "دھنا سنگھ والا",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 14026850161,
+  "lat": 31.4777367,
+  "lon": 74.2964899,
+  "tags": {
+    "name": "سکندر ہومز",
+    "name:en": "Sikandar Homes",
+    "name:ur": "سکندر ہومز",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14026850162,
+  "lat": 31.4808115,
+  "lon": 74.2939280,
+  "tags": {
+    "name": "DHB Homes",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14026850163,
+  "lat": 31.4818927,
+  "lon": 74.2931737,
+  "tags": {
+    "name": "عمر گارڈن",
+    "name:en": "Umer Garden",
+    "name:ur": "عمر گارڈن",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14026850164,
+  "lat": 31.4840180,
+  "lon": 74.2940600,
+  "tags": {
+    "name": "AIMC Residential Colony",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 14026850165,
+  "lat": 31.4819166,
+  "lon": 74.2956451,
+  "tags": {
+    "name": "سادات ایونیو",
+    "name:en": "Saadat Avenue",
+    "name:ur": "سادات ایونیو",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 14026850166,
+  "lat": 31.4752322,
+  "lon": 74.2945564,
+  "tags": {
+    "name": "رحمان پارک",
+    "name:en": "Rahman Park",
+    "name:ur": "رحمان پارک",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 14026850167,
+  "lat": 31.4757751,
+  "lon": 74.2931403,
+  "tags": {
+    "name": "اشرت ٹاؤن",
+    "name:en": "Ishrat Town",
+    "name:ur": "اشرت ٹاؤن",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 14026850168,
+  "lat": 31.4752854,
+  "lon": 74.2927859,
+  "tags": {
+    "name": "انور ٹاؤن",
+    "name:en": "Anwar Town",
+    "name:ur": "انور ٹاؤن",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14026907375,
+  "lat": 31.4734659,
+  "lon": 74.2970639,
+  "tags": {
+    "name": "رحمٰن ہاؤسنگ سوسائٹی",
+    "name:en": "Rehman Housing Society",
+    "name:ur": "رحمٰن ہاؤسنگ سوسائٹی",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 14026907376,
+  "lat": 31.4763022,
+  "lon": 74.2986674,
+  "tags": {
+    "name": "BOR Board of Revenue Housing Society",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 14026907377,
+  "lat": 31.4737275,
+  "lon": 74.3003097,
+  "tags": {
+    "name": "سمن برگ خرد",
+    "name:en": "Saman Burg Khurd",
+    "name:ur": "سمن برگ خرد",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14026910190,
+  "lat": 31.4767826,
+  "lon": 74.2847615,
+  "tags": {
+    "name": "فاروق ایونیو",
+    "name:en": "Farooq Avenue",
+    "name:ur": "فاروق ایونیو",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 14041178338,
+  "lat": 31.5255348,
+  "lon": 74.3201774,
+  "tags": {
+    "addr:suburb": "Rehmanpura",
+    "name": "Shah Jamal Colony",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14048193935,
+  "lat": 31.5223933,
+  "lon": 74.3216211,
+  "tags": {
+    "name": "شاہد کالونی",
+    "name:en": "Shahid Colony",
+    "name:ur": "شاہد کالونی",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14048193936,
+  "lat": 31.5210076,
+  "lon": 74.3203610,
+  "tags": {
+    "name": "مسیحی کالونی رحمٰن پورہ",
+    "name:en": "Christian Colony Rehmanpura",
+    "name:ur": "مسیحی کالونی رحمٰن پورہ",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14048193937,
+  "lat": 31.5217369,
+  "lon": 74.3232156,
+  "tags": {
+    "name": "سبزہ زار کالونی",
+    "name:en": "Sabzazar Colony",
+    "name:ur": "سبزہ زار کالونی",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14048193938,
+  "lat": 31.5194735,
+  "lon": 74.3169522,
+  "tags": {
+    "name": "کرم آباد",
+    "name:en": "Karamabad",
+    "name:ur": "کرم آباد",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14048193939,
+  "lat": 31.5250069,
+  "lon": 74.3131524,
+  "tags": {
+    "name": "نئی شاہ کمال کالونی",
+    "name:en": "New Shah Kamal Colony",
+    "name:ur": "نئی شاہ کمال کالونی",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 14048193940,
+  "lat": 31.5234894,
+  "lon": 74.3063612,
+  "tags": {
+    "name": "کمبوہ کالونی",
+    "name:en": "Combo Colony",
+    "name:ur": "کمبوہ کالونی",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 14048195291,
+  "lat": 31.5306126,
+  "lon": 74.3061399,
+  "tags": {
+    "name": "رحمت پارکنگ",
+    "name:en": "Rahat Park",
+    "name:ur": "رحمت پارکنگ",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14048195292,
+  "lat": 31.5304270,
+  "lon": 74.3048922,
+  "tags": {
+    "name": "یونین پارک",
+    "name:en": "Union Park",
+    "name:ur": "یونین پارک",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14048195293,
+  "lat": 31.5300818,
+  "lon": 74.3025205,
+  "tags": {
+    "name": "چودھری کالونی",
+    "name:en": "Chaudhary Colony",
+    "name:ur": "چودھری کالونی",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14048215805,
+  "lat": 31.5350429,
+  "lon": 74.3018158,
+  "tags": {
+    "name": "جناح کالونی سمن آباد",
+    "name:en": "Jinnah Colony Samanabad",
+    "name:ur": "جناح کالونی سمن آباد",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 14048215806,
+  "lat": 31.5298648,
+  "lon": 74.2991641,
+  "tags": {
+    "name": "غالب کالونی",
+    "name:en": "Ghalib Colony",
+    "name:ur": "غالب کالونی",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14048215807,
+  "lat": 31.5278318,
+  "lon": 74.2976909,
+  "tags": {
+    "name": "اسلام آباد کالونی",
+    "name:en": "Islamabad Colony",
+    "name:ur": "اسلام آباد کالونی",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14048215808,
+  "lat": 31.5279574,
+  "lon": 74.2997446,
+  "tags": {
+    "name": "ظفر کالونی",
+    "name:en": "Zafar Colony",
+    "name:ur": "ظفر کالونی",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14048215809,
+  "lat": 31.5264514,
+  "lon": 74.2999384,
+  "tags": {
+    "name": "این بی پی اسٹاف کالونی",
+    "name:en": "NBP Staff Colony",
+    "name:ur": "این بی پی اسٹاف کالونی",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14048215810,
+  "lat": 31.5249649,
+  "lon": 74.2982970,
+  "tags": {
+    "name": "سوشل سیکیورٹی ورکرز ویلفیئر",
+    "name:en": "Social Security Workers Welfare",
+    "name:ur": "سوشل سیکیورٹی ورکرز ویلفیئر",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14048215811,
+  "lat": 31.5254993,
+  "lon": 74.2955500,
+  "tags": {
+    "name": "سادات کالونی",
+    "name:en": "Sadaat Colony",
+    "name:ur": "سادات کالونی",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14048216229,
+  "lat": 31.5286018,
+  "lon": 74.2947861,
+  "tags": {
+    "name": "بلال پارک پکی ٹھٹی",
+    "name:en": "Bilal Park Pakki Thatti",
+    "name:ur": "بلال پارک پکی ٹھٹی",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 14048216230,
+  "lat": 31.5263530,
+  "lon": 74.2925240,
+  "tags": {
+    "name": "حسین آباد پکی ٹھٹی",
+    "name:en": "Hussainabad Pakki Thatti",
+    "name:ur": "حسین آباد پکی ٹھٹی",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14048216231,
+  "lat": 31.5273936,
+  "lon": 74.2911230,
+  "tags": {
+    "name": "غازی پارک",
+    "name:en": "Gazi Park",
+    "name:ur": "غازی پارک",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 14048216232,
+  "lat": 31.5281187,
+  "lon": 74.2912086,
+  "tags": {
+    "name": "بسم اللہ ویلفیئر سوسائٹی غازی پارک",
+    "name:en": "Bismillah Welfare Society Gazi Park",
+    "name:ur": "بسم اللہ ویلفیئر سوسائٹی غازی پارک",
+    "place": "square"
+  }
+},
+{
+  "type": "way",
+  "id": 27618536,
+  "center": {
+    "lat": 31.4953201,
+    "lon": 74.3860230
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:country": "PK",
+    "addr:street": "Faisal Ghuman Rd, Askari VIII Askari 8 (Army Housing Scheme Defence), Lahore, Pakistan",
+    "foot": "yes",
+    "leisure": "park",
+    "name": "Nishat Park",
+    "name:ur": "نشاط پارک"
+  }
+},
+{
+  "type": "way",
+  "id": 173961470,
+  "center": {
+    "lat": 31.4846362,
+    "lon": 74.3262297
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Model Town Park"
+  }
+},
+{
+  "type": "way",
+  "id": 220584467,
+  "center": {
+    "lat": 31.4857731,
+    "lon": 74.3564358
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Walton Community Park"
+  }
+},
+{
+  "type": "way",
+  "id": 232344024,
+  "center": {
+    "lat": 31.5870571,
+    "lon": 74.3824978
+  },
+  "tags": {
+    "area": "yes",
+    "barrier": "city_wall",
+    "heritage:operator": "whc",
+    "leisure": "park",
+    "name": "Shalimar Gardens",
+    "name:ar": "حدائق شاليمار",
+    "name:be": "Сады Шалімара",
+    "name:de": "Shalimar-Gärten",
+    "name:en": "Shalimar Gardens",
+    "name:es": "Jardines de Shalimar",
+    "name:fa": "باغ شالیمار",
+    "name:hi": "शालीमार बाग",
+    "name:ml": "ഷാലിമാർ ബാഗ്",
+    "name:pa": "ਸ਼ਾਲਾਮਾਰ ਬਾਗ਼",
+    "name:pnb": "شالامار باغ",
+    "name:ru": "Сады Шалимар",
+    "name:sd": "شالامار باغ",
+    "name:uk": "Сади Шалімара",
+    "name:ur": "شالامار باغ",
+    "ref:whc": "171-002",
+    "whc:criteria": "(i)(ii)(iii)",
+    "whc:inscription_date": "1981",
+    "wikidata": "Q499527",
+    "wikimedia_commons": "Category:Shalimar Gardens (Lahore)",
+    "wikipedia": "ur:شالامار باغ"
+  }
+},
+{
+  "type": "way",
+  "id": 232401428,
+  "center": {
+    "lat": 31.5921851,
+    "lon": 74.3121556
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "اقبال پارک",
+    "name:en": "Iqbal Park",
+    "name:fa": "بوستان اقبال لاهوری",
+    "name:hi": "इकबाल पार्क",
+    "name:ml": "ഇഖ്ബാൽ പാർക്ക്",
+    "tourism": "attraction",
+    "wikidata": "Q3249622"
+  }
+},
+{
+  "type": "way",
+  "id": 232952807,
+  "center": {
+    "lat": 31.5622699,
+    "lon": 74.3359259
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Simla Hill"
+  }
+},
+{
+  "type": "way",
+  "id": 236976460,
+  "center": {
+    "lat": 31.5390550,
+    "lon": 74.3298611
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Shadman Market Park"
+  }
+},
+{
+  "type": "way",
+  "id": 246128683,
+  "center": {
+    "lat": 31.5438791,
+    "lon": 74.3367955
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Jail Road",
+    "alt_name": "Jilani Park",
+    "leisure": "park",
+    "name": "Race Course Park",
+    "wikidata": "Q6192654",
+    "wikimedia_commons": "Category:Jilani Park",
+    "wikipedia": "en:Jilani Park"
+  }
+},
+{
+  "type": "way",
+  "id": 255490497,
+  "center": {
+    "lat": 31.5235715,
+    "lon": 74.2873912
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "باغ",
+    "name:en": "Park",
+    "name:ur": "باغ"
+  }
+},
+{
+  "type": "way",
+  "id": 283320909,
+  "center": {
+    "lat": 31.5198084,
+    "lon": 74.3190878
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Cricket Ground"
+  }
+},
+{
+  "type": "way",
+  "id": 283321298,
+  "center": {
+    "lat": 31.5213203,
+    "lon": 74.3200011
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "D-Block Park"
+  }
+},
+{
+  "type": "way",
+  "id": 283326638,
+  "center": {
+    "lat": 31.5117096,
+    "lon": 74.3245149
+  },
+  "tags": {
+    "building:levels": "2",
+    "leisure": "park",
+    "name": "Ibsta Tech"
+  }
+},
+{
+  "type": "way",
+  "id": 290081405,
+  "center": {
+    "lat": 31.5483030,
+    "lon": 74.3620205
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Tomb of Nadira Begum"
+  }
+},
+{
+  "type": "way",
+  "id": 290775913,
+  "center": {
+    "lat": 31.5709258,
+    "lon": 74.3061600
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Lower Mall",
+    "alt_name": "Band Stand Garden",
+    "leisure": "park",
+    "name": "ناصر باغ",
+    "name:en": "Nisar Bagh",
+    "name:ur": "ناصر باغ"
+  }
+},
+{
+  "type": "way",
+  "id": 290937635,
+  "center": {
+    "lat": 31.5523670,
+    "lon": 74.3309266
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Jinnah Gardens",
+    "wikidata": "Q3694552",
+    "wikimedia_commons": "Category:Bagh-e-Jinnah",
+    "wikipedia": "en:Bagh-e-Jinnah, Lahore"
+  }
+},
+{
+  "type": "way",
+  "id": 290937637,
+  "center": {
+    "lat": 31.5304062,
+    "lon": 74.3988244
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Amjad Chaudary Road",
+    "leisure": "park",
+    "name": "Soldier Park"
+  }
+},
+{
+  "type": "way",
+  "id": 291407228,
+  "center": {
+    "lat": 31.5407398,
+    "lon": 74.3276087
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Khursheed Park"
+  }
+},
+{
+  "type": "way",
+  "id": 291407238,
+  "center": {
+    "lat": 31.5060369,
+    "lon": 74.3340372
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "National Bank Park"
+  }
+},
+{
+  "type": "way",
+  "id": 291409470,
+  "center": {
+    "lat": 31.5861016,
+    "lon": 74.3135860
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "علی پارک",
+    "name:en": "Ali Park",
+    "name:hi": "अली पार्क",
+    "name:ur": "علی پارک"
+  }
+},
+{
+  "type": "way",
+  "id": 291409483,
+  "center": {
+    "lat": 31.5067897,
+    "lon": 74.3430537
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Jam-e-Shireen Park"
+  }
+},
+{
+  "type": "way",
+  "id": 291527255,
+  "center": {
+    "lat": 31.5466012,
+    "lon": 74.2785076
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Usman Park"
+  }
+},
+{
+  "type": "way",
+  "id": 291684963,
+  "center": {
+    "lat": 31.5136283,
+    "lon": 74.2889924
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "گلشنِ اقبال پارک",
+    "name:en": "Gulshan-e-Iqbal Park",
+    "name:ur": "گلشن اقبال پارک",
+    "wikidata": "Q15222292",
+    "wikimedia_commons": "Category:Gulshan-e-Iqbal Park, Lahore",
+    "wikipedia": "ur:گلشن اقبال پارک"
+  }
+},
+{
+  "type": "way",
+  "id": 291782544,
+  "center": {
+    "lat": 31.5883987,
+    "lon": 74.3118062
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Shahi Mohallah Street",
+    "leisure": "park",
+    "name": "حضوری باغ",
+    "name:en": "Hazuri Bagh",
+    "name:hi": "हज़ूरी बाग",
+    "name:ur": "حضوری باغ",
+    "wikidata": "Q3783828",
+    "wikipedia": "en:Hazuri Bagh"
+  }
+},
+{
+  "type": "way",
+  "id": 291840754,
+  "center": {
+    "lat": 31.4874980,
+    "lon": 74.3353530
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "East Garden"
+  }
+},
+{
+  "type": "way",
+  "id": 291840755,
+  "center": {
+    "lat": 31.4818400,
+    "lon": 74.3170482
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "West Garden",
+    "name:fa": "بوستان غربی"
+  }
+},
+{
+  "type": "way",
+  "id": 292005560,
+  "center": {
+    "lat": 31.6081999,
+    "lon": 74.2884401
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Farkhabad Park"
+  }
+},
+{
+  "type": "way",
+  "id": 292009374,
+  "center": {
+    "lat": 31.5909343,
+    "lon": 74.2997039
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Karim Park Gol Bagh"
+  }
+},
+{
+  "type": "way",
+  "id": 292894228,
+  "center": {
+    "lat": 31.5006838,
+    "lon": 74.3666393
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Cavalry Ground Park"
+  }
+},
+{
+  "type": "way",
+  "id": 295738680,
+  "center": {
+    "lat": 31.5685898,
+    "lon": 74.2938847
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "افغان پارک",
+    "name:en": "Afghan Park",
+    "name:ur": "افغان پارک"
+  }
+},
+{
+  "type": "way",
+  "id": 298307251,
+  "center": {
+    "lat": 31.5995240,
+    "lon": 74.3380705
+  },
+  "tags": {
+    "barrier": "fence",
+    "leisure": "park",
+    "name": "گول باغ",
+    "name:en": "Gol Bagh",
+    "name:ur": "گول باغ"
+  }
+},
+{
+  "type": "way",
+  "id": 308379331,
+  "center": {
+    "lat": 31.5917185,
+    "lon": 74.3683180
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Choti Park"
+  }
+},
+{
+  "type": "way",
+  "id": 308379332,
+  "center": {
+    "lat": 31.5896530,
+    "lon": 74.3670927
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Park no.2"
+  }
+},
+{
+  "type": "way",
+  "id": 316460847,
+  "center": {
+    "lat": 31.5083086,
+    "lon": 74.2842777
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "عمر بلاک پارک",
+    "name:en": "Umer Block Park"
+  }
+},
+{
+  "type": "way",
+  "id": 316565601,
+  "center": {
+    "lat": 31.5770797,
+    "lon": 74.3228386
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Circular Road",
+    "leisure": "park",
+    "name": "موچی باغ",
+    "name:en": "Mochi Bagh",
+    "name:ur": "موچی باغ"
+  }
+},
+{
+  "type": "way",
+  "id": 316694779,
+  "center": {
+    "lat": 31.4869093,
+    "lon": 74.3076642
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:country": "PK",
+    "leisure": "park",
+    "name": "L Block Model Town Children Park"
+  }
+},
+{
+  "type": "way",
+  "id": 316700016,
+  "center": {
+    "lat": 31.5210834,
+    "lon": 74.3806073
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Lahore Cantonment Board Park"
+  }
+},
+{
+  "type": "way",
+  "id": 316873733,
+  "center": {
+    "lat": 31.5402131,
+    "lon": 74.3305189
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Shadman Colony Park"
+  }
+},
+{
+  "type": "way",
+  "id": 319650873,
+  "center": {
+    "lat": 31.5462755,
+    "lon": 74.2934310
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Gulfishan Colony Park"
+  }
+},
+{
+  "type": "way",
+  "id": 321065892,
+  "center": {
+    "lat": 31.5031830,
+    "lon": 74.3265788
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Main Boulevard Garden Town",
+    "leisure": "park",
+    "name": "Ali Block Park"
+  }
+},
+{
+  "type": "way",
+  "id": 321065894,
+  "center": {
+    "lat": 31.5023649,
+    "lon": 74.3188242
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Usman Block Park"
+  }
+},
+{
+  "type": "way",
+  "id": 321065895,
+  "center": {
+    "lat": 31.5019474,
+    "lon": 74.3204066
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Ghousia Triangle Park"
+  }
+},
+{
+  "type": "way",
+  "id": 327492235,
+  "center": {
+    "lat": 31.5485248,
+    "lon": 74.2763914
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Makkah Park"
+  }
+},
+{
+  "type": "way",
+  "id": 327492236,
+  "center": {
+    "lat": 31.5485294,
+    "lon": 74.2743093
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Madina Park"
+  }
+},
+{
+  "type": "way",
+  "id": 328268855,
+  "center": {
+    "lat": 31.5927053,
+    "lon": 74.3369663
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "تاج پورہ گراؤنڈ",
+    "name:en": "Tajpura Ground",
+    "name:ur": "تاج پورہ گراؤنڈ"
+  }
+},
+{
+  "type": "way",
+  "id": 334123481,
+  "center": {
+    "lat": 31.5584626,
+    "lon": 74.2945081
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Muhammadi Park"
+  }
+},
+{
+  "type": "way",
+  "id": 334400304,
+  "center": {
+    "lat": 31.5512355,
+    "lon": 74.2782959
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Main Park Gulshan-e-Ravi"
+  }
+},
+{
+  "type": "way",
+  "id": 334400306,
+  "center": {
+    "lat": 31.5506458,
+    "lon": 74.2815883
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Moon Market Park"
+  }
+},
+{
+  "type": "way",
+  "id": 347270361,
+  "center": {
+    "lat": 31.5205702,
+    "lon": 74.2919399
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "مون مارکیٹ پارک"
+  }
+},
+{
+  "type": "way",
+  "id": 354138759,
+  "center": {
+    "lat": 31.5441601,
+    "lon": 74.2797682
+  },
+  "tags": {
+    "addr:city": "lahore",
+    "addr:postcode": "54500",
+    "addr:street": "Firdous Colony",
+    "leisure": "park",
+    "name": "water filter parc",
+    "name:en": "Rafia Park"
+  }
+},
+{
+  "type": "way",
+  "id": 359003013,
+  "center": {
+    "lat": 31.4981038,
+    "lon": 74.2756223
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "ممدوٹ بلاک پارک",
+    "name:en": "Mamdoot Block Park"
+  }
+},
+{
+  "type": "way",
+  "id": 359005431,
+  "center": {
+    "lat": 31.4913559,
+    "lon": 74.2724828
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "احمد یار بلاک پارک",
+    "name:en": "Ahmad Yar Block Park"
+  }
+},
+{
+  "type": "way",
+  "id": 359005438,
+  "center": {
+    "lat": 31.4893578,
+    "lon": 74.2710131
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "شہباز بلاک پارک",
+    "name:en": "Shahbaz Block Park"
+  }
+},
+{
+  "type": "way",
+  "id": 359005461,
+  "center": {
+    "lat": 31.4910249,
+    "lon": 74.2702351
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "عباس پارک",
+    "name:en": "Abbas Park"
+  }
+},
+{
+  "type": "way",
+  "id": 359363026,
+  "center": {
+    "lat": 31.5052174,
+    "lon": 74.2860002
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "رضا بلاک پارک",
+    "name:en": "Reza Block Park"
+  }
+},
+{
+  "type": "way",
+  "id": 360102329,
+  "center": {
+    "lat": 31.4830501,
+    "lon": 74.3013146
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Motia Park"
+  }
+},
+{
+  "type": "way",
+  "id": 360108924,
+  "center": {
+    "lat": 31.4953427,
+    "lon": 74.3152508
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Usmani Road",
+    "leisure": "park",
+    "name": "Aurangzeb Block Park"
+  }
+},
+{
+  "type": "way",
+  "id": 360108935,
+  "center": {
+    "lat": 31.4893688,
+    "lon": 74.3241948
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "North Garden"
+  }
+},
+{
+  "type": "way",
+  "id": 362292905,
+  "center": {
+    "lat": 31.4848935,
+    "lon": 74.2818119
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Tech Society, Main Park, B-Block"
+  }
+},
+{
+  "type": "way",
+  "id": 362292916,
+  "center": {
+    "lat": 31.4891899,
+    "lon": 74.2862158
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "B-Block Park, Tech Society"
+  }
+},
+{
+  "type": "way",
+  "id": 363567255,
+  "center": {
+    "lat": 31.4927057,
+    "lon": 74.3135206
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "طارق بلاک"
+  }
+},
+{
+  "type": "way",
+  "id": 363567970,
+  "center": {
+    "lat": 31.5128091,
+    "lon": 74.3544228
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Ghalib Market"
+  }
+},
+{
+  "type": "way",
+  "id": 380472217,
+  "center": {
+    "lat": 31.5489888,
+    "lon": 74.3744291
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Ghulam Ahmad Park"
+  }
+},
+{
+  "type": "way",
+  "id": 383931836,
+  "center": {
+    "lat": 31.5510985,
+    "lon": 74.3236247
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Rameeza Park"
+  }
+},
+{
+  "type": "way",
+  "id": 414263561,
+  "center": {
+    "lat": 31.5529937,
+    "lon": 74.2829354
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Ya Rasool Allah Park"
+  }
+},
+{
+  "type": "way",
+  "id": 444829417,
+  "center": {
+    "lat": 31.5508169,
+    "lon": 74.3532745
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Zaman Park",
+    "wikidata": "Q49583871",
+    "wikipedia": "ur:زمان پارک"
+  }
+},
+{
+  "type": "way",
+  "id": 468166747,
+  "center": {
+    "lat": 31.5830484,
+    "lon": 74.3190913
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "باؤلی باغ",
+    "name:en": "Baoli Bagh",
+    "name:ur": "باؤلی باغ"
+  }
+},
+{
+  "type": "way",
+  "id": 499860220,
+  "center": {
+    "lat": 31.6135626,
+    "lon": 74.2689599
+  },
+  "tags": {
+    "addr:city": "Shahdara",
+    "addr:street": "Jaranwala - Lahore Road",
+    "leisure": "park",
+    "name": "Local Park"
+  }
+},
+{
+  "type": "way",
+  "id": 500119249,
+  "center": {
+    "lat": 31.5979900,
+    "lon": 74.3084611
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Ravi Rd",
+    "leisure": "park",
+    "name": "Nabi Park"
+  }
+},
+{
+  "type": "way",
+  "id": 500119251,
+  "center": {
+    "lat": 31.5965169,
+    "lon": 74.3076737
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Ravi Rd",
+    "leisure": "park",
+    "name": "Tikon Park"
+  }
+},
+{
+  "type": "way",
+  "id": 500119257,
+  "center": {
+    "lat": 31.5948748,
+    "lon": 74.3072501
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Ravi Rd",
+    "leisure": "park",
+    "name": "Tanki Bagh"
+  }
+},
+{
+  "type": "way",
+  "id": 500160058,
+  "center": {
+    "lat": 31.5801389,
+    "lon": 74.3256151
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Circular Road",
+    "leisure": "park",
+    "name": "Delhi Gate Park"
+  }
+},
+{
+  "type": "way",
+  "id": 500420266,
+  "center": {
+    "lat": 31.5732574,
+    "lon": 74.2959818
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "فردوس پارک",
+    "name:en": "Firdous Park"
+  }
+},
+{
+  "type": "way",
+  "id": 500420267,
+  "center": {
+    "lat": 31.5681141,
+    "lon": 74.2994497
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Qari Road",
+    "leisure": "park",
+    "name": "Chistia Park"
+  }
+},
+{
+  "type": "way",
+  "id": 500980114,
+  "center": {
+    "lat": 31.4882407,
+    "lon": 74.2976264
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "UBD Canal Bank Road",
+    "leisure": "park",
+    "name": "Eice Muhammad Garden"
+  }
+},
+{
+  "type": "way",
+  "id": 521829724,
+  "center": {
+    "lat": 31.5943548,
+    "lon": 74.3499729
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "China Scheme Park"
+  }
+},
+{
+  "type": "way",
+  "id": 523610752,
+  "center": {
+    "lat": 31.5031114,
+    "lon": 74.3034434
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Professors' Colony Jogging Track"
+  }
+},
+{
+  "type": "way",
+  "id": 528052763,
+  "center": {
+    "lat": 31.5215497,
+    "lon": 74.3331277
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "London Bridge"
+  }
+},
+{
+  "type": "way",
+  "id": 543233370,
+  "center": {
+    "lat": 31.5209174,
+    "lon": 74.3513300
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "MM Alam Road",
+    "leisure": "park",
+    "name": "Mini Market Park"
+  }
+},
+{
+  "type": "way",
+  "id": 544728039,
+  "center": {
+    "lat": 31.4837718,
+    "lon": 74.4003178
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "M-Block Park"
+  }
+},
+{
+  "type": "way",
+  "id": 544741398,
+  "center": {
+    "lat": 31.4804136,
+    "lon": 74.3910347
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "باغ",
+    "name:en": "Park",
+    "name:ur": "باغ"
+  }
+},
+{
+  "type": "way",
+  "id": 545754582,
+  "center": {
+    "lat": 31.5532207,
+    "lon": 74.2896334
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Tauheed Park"
+  }
+},
+{
+  "type": "way",
+  "id": 545754600,
+  "center": {
+    "lat": 31.5499304,
+    "lon": 74.2883781
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Mian Muhammad Hassan Park"
+  }
+},
+{
+  "type": "way",
+  "id": 546258868,
+  "center": {
+    "lat": 31.5156080,
+    "lon": 74.3799422
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:postcode": "54000",
+    "leisure": "park",
+    "name": "PAF Stadium"
+  }
+},
+{
+  "type": "way",
+  "id": 546258882,
+  "center": {
+    "lat": 31.5090187,
+    "lon": 74.3771176
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Polo Ground"
+  }
+},
+{
+  "type": "way",
+  "id": 561233054,
+  "center": {
+    "lat": 31.4818234,
+    "lon": 74.3030038
+  },
+  "tags": {
+    "description": "It is a place where devastated fastian can play thulla,rang rang,bluff,poker,etc. as boys don`t have any common room. This is also a meetup point for lovebirds mostly BBA.",
+    "leisure": "park",
+    "name": "Love Garden"
+  }
+},
+{
+  "type": "way",
+  "id": 604478332,
+  "center": {
+    "lat": 31.5887457,
+    "lon": 74.3140930
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "دل تبسم باغ",
+    "name:en": "Dil Tabassum Park",
+    "name:hi": "दिल तबस्सुम बाग़"
+  }
+},
+{
+  "type": "way",
+  "id": 604478334,
+  "center": {
+    "lat": 31.5889822,
+    "lon": 74.3136431
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "امام باغ",
+    "name:en": "Imam Garden",
+    "name:hi": "इमाम बाग़"
+  }
+},
+{
+  "type": "way",
+  "id": 605805881,
+  "center": {
+    "lat": 31.5892854,
+    "lon": 74.3141024
+  },
+  "tags": {
+    "alt_name:en": "Paeen Bagh",
+    "leisure": "park",
+    "name": "پائیں باغ",
+    "name:en": "Ladies' Garden",
+    "name:ur": "پائیں باغ"
+  }
+},
+{
+  "type": "way",
+  "id": 607790231,
+  "center": {
+    "lat": 31.5902131,
+    "lon": 74.3208023
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Badami Bagh"
+  }
+},
+{
+  "type": "way",
+  "id": 607798438,
+  "center": {
+    "lat": 31.5848720,
+    "lon": 74.3104959
+  },
+  "tags": {
+    "alt_name:en": "Tehsil Bagh",
+    "leisure": "park",
+    "name": "تحصیل باغ",
+    "name:en": "Tehsil Garden",
+    "name:ur": "تحصیل باغ"
+  }
+},
+{
+  "type": "way",
+  "id": 610899649,
+  "center": {
+    "lat": 31.5808702,
+    "lon": 74.3640011
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Cypress Tomb",
+    "wikidata": "Q19891235",
+    "wikimedia_commons": "Category:Tomb of Sharf ul Nisa, Lahore",
+    "wikipedia": "en:Cypress Tomb"
+  }
+},
+{
+  "type": "way",
+  "id": 610899652,
+  "center": {
+    "lat": 31.5819506,
+    "lon": 74.3636734
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Usman Park"
+  }
+},
+{
+  "type": "way",
+  "id": 610899667,
+  "center": {
+    "lat": 31.5787421,
+    "lon": 74.3640836
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Gulabi Bagh"
+  }
+},
+{
+  "type": "way",
+  "id": 611333262,
+  "center": {
+    "lat": 31.5805481,
+    "lon": 74.3696561
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Surayya Jabeen Park"
+  }
+},
+{
+  "type": "way",
+  "id": 611333263,
+  "center": {
+    "lat": 31.5818656,
+    "lon": 74.3706184
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Tomb of Jani Khan"
+  }
+},
+{
+  "type": "way",
+  "id": 611333265,
+  "center": {
+    "lat": 31.5855141,
+    "lon": 74.3684534
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Tomb of Mian Khan"
+  }
+},
+{
+  "type": "way",
+  "id": 611895710,
+  "center": {
+    "lat": 31.5761977,
+    "lon": 74.3559054
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Buddhu's Tomb"
+  }
+},
+{
+  "type": "way",
+  "id": 611902502,
+  "center": {
+    "lat": 31.5740206,
+    "lon": 74.3635511
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Wheatman Road",
+    "attraction": "historic",
+    "barrier": "wall",
+    "leisure": "park",
+    "name": "Tomb of Ali Mardan Khan",
+    "tourism": "attraction",
+    "wall:height": "2.5",
+    "wall:material": "brick",
+    "wall:thickness": ".3"
+  }
+},
+{
+  "type": "way",
+  "id": 611902505,
+  "center": {
+    "lat": 31.5727620,
+    "lon": 74.3640391
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Wheatman Road",
+    "barrier": "wall",
+    "leisure": "park",
+    "name": "Tomb of Mullah Hamid Qari",
+    "wall:material": "brick"
+  }
+},
+{
+  "type": "way",
+  "id": 611902510,
+  "center": {
+    "lat": 31.5598072,
+    "lon": 74.3665597
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Tomb of Zafar Jang Kolkatash"
+  }
+},
+{
+  "type": "way",
+  "id": 611904084,
+  "center": {
+    "lat": 31.5798927,
+    "lon": 74.3743026
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Garden of Mahabat Khan"
+  }
+},
+{
+  "type": "way",
+  "id": 611906759,
+  "center": {
+    "lat": 31.5481473,
+    "lon": 74.3084659
+  },
+  "tags": {
+    "description": "Dedicated to Gul Begum, a concubine of the Sikh Emperor Maharaja Ranjit Singh",
+    "leisure": "park",
+    "name": "Gul Begum Bagh"
+  }
+},
+{
+  "type": "way",
+  "id": 611912836,
+  "center": {
+    "lat": 31.5861320,
+    "lon": 74.2978933
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Choudhry Park"
+  }
+},
+{
+  "type": "way",
+  "id": 612409349,
+  "center": {
+    "lat": 31.5807741,
+    "lon": 74.3422645
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Jinnah Park"
+  }
+},
+{
+  "type": "way",
+  "id": 613588608,
+  "center": {
+    "lat": 31.5626389,
+    "lon": 74.2976753
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Ladies' Park"
+  }
+},
+{
+  "type": "way",
+  "id": 615028902,
+  "center": {
+    "lat": 31.6021632,
+    "lon": 74.3620849
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Muhammadia Park"
+  }
+},
+{
+  "type": "way",
+  "id": 615028903,
+  "center": {
+    "lat": 31.6019578,
+    "lon": 74.3646897
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Sidique Akbar Park"
+  }
+},
+{
+  "type": "way",
+  "id": 615028905,
+  "center": {
+    "lat": 31.5998267,
+    "lon": 74.3606721
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Hamza Shahbaz Park"
+  }
+},
+{
+  "type": "way",
+  "id": 618210812,
+  "center": {
+    "lat": 31.5261625,
+    "lon": 74.3369582
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "FCC Park"
+  }
+},
+{
+  "type": "way",
+  "id": 618216993,
+  "center": {
+    "lat": 31.5212954,
+    "lon": 74.3011045
+  },
+  "tags": {
+    "addr:city": "لاہور",
+    "leisure": "park",
+    "name": "علی پارک",
+    "name:en": "Ali Park",
+    "name:ur": "علی پارک"
+  }
+},
+{
+  "type": "way",
+  "id": 618218005,
+  "center": {
+    "lat": 31.5407212,
+    "lon": 74.3127350
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Rasool Park"
+  }
+},
+{
+  "type": "way",
+  "id": 618362506,
+  "center": {
+    "lat": 31.5672666,
+    "lon": 74.3176241
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Patiala Ground"
+  }
+},
+{
+  "type": "way",
+  "id": 618368052,
+  "center": {
+    "lat": 31.5631912,
+    "lon": 74.3498685
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Kisi Bagh"
+  }
+},
+{
+  "type": "way",
+  "id": 618368068,
+  "center": {
+    "lat": 31.5659918,
+    "lon": 74.3309848
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Madina Park (Mela Ram Park)"
+  }
+},
+{
+  "type": "way",
+  "id": 618625415,
+  "center": {
+    "lat": 31.5447656,
+    "lon": 74.3006467
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Arya Nagar Park"
+  }
+},
+{
+  "type": "way",
+  "id": 618632050,
+  "center": {
+    "lat": 31.5793520,
+    "lon": 74.3180081
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Fawara Park"
+  }
+},
+{
+  "type": "way",
+  "id": 618684900,
+  "center": {
+    "lat": 31.5678246,
+    "lon": 74.2953515
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "نور پارک",
+    "name:en": "Noor Park",
+    "name:ur": "نور پارک"
+  }
+},
+{
+  "type": "way",
+  "id": 620499949,
+  "center": {
+    "lat": 31.5903321,
+    "lon": 74.3277110
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Rashid Sakeen Park"
+  }
+},
+{
+  "type": "way",
+  "id": 620501941,
+  "center": {
+    "lat": 31.6012231,
+    "lon": 74.3419142
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Akram Park"
+  }
+},
+{
+  "type": "way",
+  "id": 620985437,
+  "center": {
+    "lat": 31.5670864,
+    "lon": 74.2918777
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Rehman Park"
+  }
+},
+{
+  "type": "way",
+  "id": 620988201,
+  "center": {
+    "lat": 31.5750040,
+    "lon": 74.2886398
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Masum Park"
+  }
+},
+{
+  "type": "way",
+  "id": 621317136,
+  "center": {
+    "lat": 31.5870896,
+    "lon": 74.3354844
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Ilahi Park"
+  }
+},
+{
+  "type": "way",
+  "id": 621317138,
+  "center": {
+    "lat": 31.5876541,
+    "lon": 74.3379044
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Shafi Park"
+  }
+},
+{
+  "type": "way",
+  "id": 621317149,
+  "center": {
+    "lat": 31.5834214,
+    "lon": 74.3631419
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Salman Park"
+  }
+},
+{
+  "type": "way",
+  "id": 622253467,
+  "center": {
+    "lat": 31.5154193,
+    "lon": 74.2731440
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Ground"
+  }
+},
+{
+  "type": "way",
+  "id": 623019703,
+  "center": {
+    "lat": 31.5919521,
+    "lon": 74.3493555
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Sofia Park"
+  }
+},
+{
+  "type": "way",
+  "id": 624646075,
+  "center": {
+    "lat": 31.5789532,
+    "lon": 74.3847614
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Angoori Bagh"
+  }
+},
+{
+  "type": "way",
+  "id": 642735518,
+  "center": {
+    "lat": 31.5121135,
+    "lon": 74.3846024
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Tariq Road Park"
+  }
+},
+{
+  "type": "way",
+  "id": 660880481,
+  "center": {
+    "lat": 31.5560122,
+    "lon": 74.2966165
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Bilal Park"
+  }
+},
+{
+  "type": "way",
+  "id": 660880482,
+  "center": {
+    "lat": 31.5552299,
+    "lon": 74.2973781
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Bilal Park"
+  }
+},
+{
+  "type": "way",
+  "id": 686779301,
+  "center": {
+    "lat": 31.5200522,
+    "lon": 74.3811695
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Mobilink Theme Park & Flower Market"
+  }
+},
+{
+  "type": "way",
+  "id": 688128510,
+  "center": {
+    "lat": 31.5168629,
+    "lon": 74.3756694
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "EzGarden"
+  }
+},
+{
+  "type": "way",
+  "id": 690185502,
+  "center": {
+    "lat": 31.5452517,
+    "lon": 74.3764131
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Muslim Model High School"
+  }
+},
+{
+  "type": "way",
+  "id": 698824023,
+  "center": {
+    "lat": 31.5171312,
+    "lon": 74.3801105
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Alpine Garden"
+  }
+},
+{
+  "type": "way",
+  "id": 699333323,
+  "center": {
+    "lat": 31.5049631,
+    "lon": 74.3823228
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Children's Park RA Bazar"
+  }
+},
+{
+  "type": "way",
+  "id": 699369249,
+  "center": {
+    "lat": 31.5047662,
+    "lon": 74.3844838
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "RA Bazaar Park"
+  }
+},
+{
+  "type": "way",
+  "id": 699369250,
+  "center": {
+    "lat": 31.5046457,
+    "lon": 74.3851360
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Nadeem Football Club RA Bazaar"
+  }
+},
+{
+  "type": "way",
+  "id": 700310299,
+  "center": {
+    "lat": 31.5098169,
+    "lon": 74.3941381
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "New Mazhar Lines Family Park"
+  }
+},
+{
+  "type": "way",
+  "id": 706605824,
+  "center": {
+    "lat": 31.6101810,
+    "lon": 74.3671007
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Khawaha Family Park"
+  }
+},
+{
+  "type": "way",
+  "id": 715162334,
+  "center": {
+    "lat": 31.5578317,
+    "lon": 74.3996333
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Bismillah Park",
+    "name:ur": "بسم اللہ پارک"
+  }
+},
+{
+  "type": "way",
+  "id": 715162335,
+  "center": {
+    "lat": 31.5566729,
+    "lon": 74.3995072
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Jamal e Mustafa Park",
+    "name:ur": "جمال مصطفے پارک"
+  }
+},
+{
+  "type": "way",
+  "id": 715162339,
+  "center": {
+    "lat": 31.5597229,
+    "lon": 74.3992425
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Tajpura",
+    "leisure": "park",
+    "name": "Amna Park"
+  }
+},
+{
+  "type": "way",
+  "id": 715162340,
+  "center": {
+    "lat": 31.5602785,
+    "lon": 74.3996846
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "A Block Park"
+  }
+},
+{
+  "type": "way",
+  "id": 761653335,
+  "center": {
+    "lat": 31.5972881,
+    "lon": 74.3934366
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Asghar Park"
+  }
+},
+{
+  "type": "way",
+  "id": 761658021,
+  "center": {
+    "lat": 31.5910575,
+    "lon": 74.3636585
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Warsi Park"
+  }
+},
+{
+  "type": "way",
+  "id": 761662262,
+  "center": {
+    "lat": 31.5723382,
+    "lon": 74.3938948
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Mianwali Ground"
+  }
+},
+{
+  "type": "way",
+  "id": 761667168,
+  "center": {
+    "lat": 31.5984846,
+    "lon": 74.3627824
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Bri Park"
+  }
+},
+{
+  "type": "way",
+  "id": 761667172,
+  "center": {
+    "lat": 31.6042719,
+    "lon": 74.3627120
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Aqsa Park"
+  }
+},
+{
+  "type": "way",
+  "id": 761667194,
+  "center": {
+    "lat": 31.6037963,
+    "lon": 74.3594449
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Faisal Park",
+    "wikidata": "Q49488165"
+  }
+},
+{
+  "type": "way",
+  "id": 761672819,
+  "center": {
+    "lat": 31.5956989,
+    "lon": 74.3350026
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "ناظم آباد پارک",
+    "name:en": "Nazim Abad Park",
+    "name:ur": "ناظم آباد پارک"
+  }
+},
+{
+  "type": "way",
+  "id": 761672825,
+  "center": {
+    "lat": 31.5928876,
+    "lon": 74.3418150
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Shamshad Park"
+  }
+},
+{
+  "type": "way",
+  "id": 761672826,
+  "center": {
+    "lat": 31.5897081,
+    "lon": 74.3394137
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Shafi Park"
+  }
+},
+{
+  "type": "way",
+  "id": 761672827,
+  "center": {
+    "lat": 31.5940796,
+    "lon": 74.3478687
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Makhanpura Park"
+  }
+},
+{
+  "type": "way",
+  "id": 761672830,
+  "center": {
+    "lat": 31.5943563,
+    "lon": 74.3551413
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Sher Singh Baradari Park"
+  }
+},
+{
+  "type": "way",
+  "id": 761865320,
+  "center": {
+    "lat": 31.5776403,
+    "lon": 74.3107607
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Mori Gate Park"
+  }
+},
+{
+  "type": "way",
+  "id": 761865321,
+  "center": {
+    "lat": 31.5745688,
+    "lon": 74.3166442
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Azad Park"
+  }
+},
+{
+  "type": "way",
+  "id": 761929355,
+  "center": {
+    "lat": 31.5440835,
+    "lon": 74.3782274
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Goli Bagh"
+  }
+},
+{
+  "type": "way",
+  "id": 762198659,
+  "center": {
+    "lat": 31.5667009,
+    "lon": 74.2933009
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Ahmed Din Park"
+  }
+},
+{
+  "type": "way",
+  "id": 762198666,
+  "center": {
+    "lat": 31.5582549,
+    "lon": 74.3034338
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Munnu Bhai Park"
+  }
+},
+{
+  "type": "way",
+  "id": 762987135,
+  "center": {
+    "lat": 31.5869084,
+    "lon": 74.3003716
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Madina Masjid Park"
+  }
+},
+{
+  "type": "way",
+  "id": 762987136,
+  "center": {
+    "lat": 31.5882850,
+    "lon": 74.3014860
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "WAPDA Garden"
+  }
+},
+{
+  "type": "way",
+  "id": 762987137,
+  "center": {
+    "lat": 31.5884985,
+    "lon": 74.3003991
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "شاہجہاں اسٹریٹ پارک",
+    "name:en": "Shahjahan Street Park"
+  }
+},
+{
+  "type": "way",
+  "id": 762987139,
+  "center": {
+    "lat": 31.5924660,
+    "lon": 74.3013585
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "اویس بھٹی پارک"
+  }
+},
+{
+  "type": "way",
+  "id": 781643993,
+  "center": {
+    "lat": 31.4931845,
+    "lon": 74.3496395
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Ladies Park"
+  }
+},
+{
+  "type": "way",
+  "id": 795128538,
+  "center": {
+    "lat": 31.5200066,
+    "lon": 74.3527003
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Doongi Ground"
+  }
+},
+{
+  "type": "way",
+  "id": 795131232,
+  "center": {
+    "lat": 31.5207975,
+    "lon": 74.3547559
+  },
+  "tags": {
+    "addr:city": "لاہور",
+    "leisure": "park",
+    "name": "بلاک ٹی پارک",
+    "name:en": "Block T Park",
+    "name:ur": "بلاک ٹی پارک"
+  }
+},
+{
+  "type": "way",
+  "id": 795537054,
+  "center": {
+    "lat": 31.5113010,
+    "lon": 74.3527786
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Public Garden"
+  }
+},
+{
+  "type": "way",
+  "id": 800339260,
+  "center": {
+    "lat": 31.5120814,
+    "lon": 74.3477672
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "C2 Park"
+  }
+},
+{
+  "type": "way",
+  "id": 841040149,
+  "center": {
+    "lat": 31.4803235,
+    "lon": 74.3031727
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Milaad Street",
+    "leisure": "park",
+    "name": "Football Ground"
+  }
+},
+{
+  "type": "way",
+  "id": 904059889,
+  "center": {
+    "lat": 31.5830917,
+    "lon": 74.3418233
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Sultani Park"
+  }
+},
+{
+  "type": "way",
+  "id": 904059892,
+  "center": {
+    "lat": 31.5854789,
+    "lon": 74.3408280
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Punj Peer Park"
+  }
+},
+{
+  "type": "way",
+  "id": 904210056,
+  "center": {
+    "lat": 31.5975684,
+    "lon": 74.3347491
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Nabi Buksh Park"
+  }
+},
+{
+  "type": "way",
+  "id": 904210057,
+  "center": {
+    "lat": 31.5964515,
+    "lon": 74.3370503
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Khursheed Park"
+  }
+},
+{
+  "type": "way",
+  "id": 904210058,
+  "center": {
+    "lat": 31.5964649,
+    "lon": 74.3386563
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Lamba Bagh"
+  }
+},
+{
+  "type": "way",
+  "id": 904315304,
+  "center": {
+    "lat": 31.6021651,
+    "lon": 74.3059880
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Sahibzada Qasim Park"
+  }
+},
+{
+  "type": "way",
+  "id": 905331009,
+  "center": {
+    "lat": 31.5308724,
+    "lon": 74.3479097
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Aslam Riaz Park"
+  }
+},
+{
+  "type": "way",
+  "id": 905331012,
+  "center": {
+    "lat": 31.5215810,
+    "lon": 74.3647782
+  },
+  "tags": {
+    "addr:city": "لاہور",
+    "leisure": "park",
+    "name": "پل کالونی پارک",
+    "name:en": "Bridge Colony Park",
+    "name:ur": "پل کالونی پارک"
+  }
+},
+{
+  "type": "way",
+  "id": 905357046,
+  "center": {
+    "lat": 31.5605277,
+    "lon": 74.2909959
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "National Park"
+  }
+},
+{
+  "type": "way",
+  "id": 905357047,
+  "center": {
+    "lat": 31.5597976,
+    "lon": 74.2905607
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Jahangir Town Park"
+  }
+},
+{
+  "type": "way",
+  "id": 905357066,
+  "center": {
+    "lat": 31.5460724,
+    "lon": 74.2859346
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Nadeem Park"
+  }
+},
+{
+  "type": "way",
+  "id": 905357071,
+  "center": {
+    "lat": 31.5525577,
+    "lon": 74.3003205
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Rahmat Garden"
+  }
+},
+{
+  "type": "way",
+  "id": 905357072,
+  "center": {
+    "lat": 31.5517200,
+    "lon": 74.3034397
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Poonch House Ground"
+  }
+},
+{
+  "type": "way",
+  "id": 905357076,
+  "center": {
+    "lat": 31.5493204,
+    "lon": 74.2976708
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "P&T Colony Park"
+  }
+},
+{
+  "type": "way",
+  "id": 905357077,
+  "center": {
+    "lat": 31.5440507,
+    "lon": 74.2927322
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Rustam Park"
+  }
+},
+{
+  "type": "way",
+  "id": 905737705,
+  "center": {
+    "lat": 31.5764211,
+    "lon": 74.3194701
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Mian Hamid Bin Hameed Park"
+  }
+},
+{
+  "type": "way",
+  "id": 905989172,
+  "center": {
+    "lat": 31.5762309,
+    "lon": 74.3352664
+  },
+  "tags": {
+    "landuse": "construction",
+    "leisure": "park",
+    "name": "Railway Square"
+  }
+},
+{
+  "type": "way",
+  "id": 967242976,
+  "center": {
+    "lat": 31.5106163,
+    "lon": 74.3407378
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Liberty Fountain"
+  }
+},
+{
+  "type": "way",
+  "id": 967958324,
+  "center": {
+    "lat": 31.5825795,
+    "lon": 74.3004223
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "مدثر حنیف پارک",
+    "name:en": "Mudassar Hanif Park"
+  }
+},
+{
+  "type": "way",
+  "id": 1009506894,
+  "center": {
+    "lat": 31.5125299,
+    "lon": 74.2965093
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "تکونی پارک"
+  }
+},
+{
+  "type": "way",
+  "id": 1009506907,
+  "center": {
+    "lat": 31.5177009,
+    "lon": 74.2886196
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "کشمیر بلاک ﮔﺮﺍﮨﻮﻧﮉ",
+    "name:en": "Kashmir Block Ground"
+  }
+},
+{
+  "type": "way",
+  "id": 1009521438,
+  "center": {
+    "lat": 31.5215800,
+    "lon": 74.2964386
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "چناب بلاک پارک",
+    "name:en": "Chenab Block Park"
+  }
+},
+{
+  "type": "way",
+  "id": 1009521442,
+  "center": {
+    "lat": 31.5326409,
+    "lon": 74.2899519
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "زبیدہ پارک",
+    "name:en": "Zubaida Park"
+  }
+},
+{
+  "type": "way",
+  "id": 1009823626,
+  "center": {
+    "lat": 31.4945583,
+    "lon": 74.2783364
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "قیوم بلاک پارک",
+    "name:en": "Qayum Block Park"
+  }
+},
+{
+  "type": "way",
+  "id": 1011343591,
+  "center": {
+    "lat": 31.5852736,
+    "lon": 74.3267736
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "نواز شریف پارک",
+    "name:en": "Nawaz Sharif Park",
+    "name:ur": "نواز شریف پارک"
+  }
+},
+{
+  "type": "way",
+  "id": 1012000224,
+  "center": {
+    "lat": 31.5201950,
+    "lon": 74.3532105
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:postcode": "54660",
+    "addr:street": "Javed Iqbal Street",
+    "leisure": "park",
+    "name": "Football League Practice Ground",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "way",
+  "id": 1013989912,
+  "center": {
+    "lat": 31.5238066,
+    "lon": 74.3200166
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "عطاری قادری گراؤنڈ",
+    "name:en": "Attari Qadri Ground"
+  }
+},
+{
+  "type": "way",
+  "id": 1013989920,
+  "center": {
+    "lat": 31.5282098,
+    "lon": 74.3027639
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Ali Park"
+  }
+},
+{
+  "type": "way",
+  "id": 1136946349,
+  "center": {
+    "lat": 31.4931602,
+    "lon": 74.2636258
+  },
+  "tags": {
+    "addr:city": "lahore",
+    "addr:street": "Mansoora Hospital Road",
+    "leisure": "park",
+    "name": "wall boundry",
+    "operator": "wardaaniza",
+    "operator:type": "public",
+    "smoking": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1223362098,
+  "center": {
+    "lat": 31.5878889,
+    "lon": 74.3352414
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Shafi Park"
+  }
+},
+{
+  "type": "way",
+  "id": 1273107563,
+  "center": {
+    "lat": 31.5165546,
+    "lon": 74.2981325
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Tikoni Park"
+  }
+},
+{
+  "type": "way",
+  "id": 1290099639,
+  "center": {
+    "lat": 31.5905672,
+    "lon": 74.3201737
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Badami Bagh"
+  }
+},
+{
+  "type": "way",
+  "id": 1344894178,
+  "center": {
+    "lat": 31.5043965,
+    "lon": 74.3523973
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Aizar Ground"
+  }
+},
+{
+  "type": "way",
+  "id": 1383726977,
+  "center": {
+    "lat": 31.5447009,
+    "lon": 74.3844260
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Basketball Court"
+  }
+},
+{
+  "type": "way",
+  "id": 1383726978,
+  "center": {
+    "lat": 31.5444815,
+    "lon": 74.3849421
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Football Ground"
+  }
+},
+{
+  "type": "way",
+  "id": 1383726981,
+  "center": {
+    "lat": 31.5445687,
+    "lon": 74.3839569
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Children Playground"
+  }
+},
+{
+  "type": "way",
+  "id": 1383726982,
+  "center": {
+    "lat": 31.5438206,
+    "lon": 74.3831301
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Badminton Court"
+  }
+},
+{
+  "type": "way",
+  "id": 1383726985,
+  "center": {
+    "lat": 31.5455044,
+    "lon": 74.3836743
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Park"
+  }
+},
+{
+  "type": "way",
+  "id": 1383726986,
+  "center": {
+    "lat": 31.5422773,
+    "lon": 74.3834374
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Children Playground"
+  }
+},
+{
+  "type": "way",
+  "id": 1383726989,
+  "center": {
+    "lat": 31.5428433,
+    "lon": 74.3854465
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Park"
+  }
+},
+{
+  "type": "way",
+  "id": 1383726990,
+  "center": {
+    "lat": 31.5447945,
+    "lon": 74.3860979
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Children Playground"
+  }
+},
+{
+  "type": "way",
+  "id": 1417206449,
+  "center": {
+    "lat": 31.5371887,
+    "lon": 74.2950514
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Jinnah Park"
+  }
+},
+{
+  "type": "way",
+  "id": 1417207089,
+  "center": {
+    "lat": 31.5379102,
+    "lon": 74.2957495
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "New Children Park"
+  }
+},
+{
+  "type": "way",
+  "id": 1436259187,
+  "center": {
+    "lat": 31.5756260,
+    "lon": 74.3028695
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "nearby PARK"
+  }
+},
+{
+  "type": "way",
+  "id": 1462756313,
+  "center": {
+    "lat": 31.4811582,
+    "lon": 74.2720958
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "West Canal Bank Road",
+    "leisure": "park",
+    "name": "Family Park Block B"
+  }
+},
+{
+  "type": "way",
+  "id": 1462757019,
+  "center": {
+    "lat": 31.4812433,
+    "lon": 74.2750839
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Street 3",
+    "leisure": "park",
+    "name": "Main Park - PCSIR"
+  }
+},
+{
+  "type": "way",
+  "id": 1462757020,
+  "center": {
+    "lat": 31.4824536,
+    "lon": 74.2768985
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Triangle Ground Road",
+    "leisure": "park",
+    "name": "Butterfly Garden"
+  }
+},
+{
+  "type": "way",
+  "id": 1462758204,
+  "center": {
+    "lat": 31.4828633,
+    "lon": 74.2739989
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Street 6",
+    "leisure": "park",
+    "name": "Playground Block A"
+  }
+},
+{
+  "type": "way",
+  "id": 1462765755,
+  "center": {
+    "lat": 31.5384815,
+    "lon": 74.2542668
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Khwaja Moinnuddin Chishti Road",
+    "leisure": "park",
+    "name": "Malik Park Phase 1 and 2"
+  }
+},
+{
+  "type": "way",
+  "id": 1462768637,
+  "center": {
+    "lat": 31.5299378,
+    "lon": 74.3997897
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Amjad Chaudary Road",
+    "leisure": "park",
+    "name": "Old Aiport Park"
+  }
+},
+{
+  "type": "way",
+  "id": 1464376787,
+  "center": {
+    "lat": 31.4865260,
+    "lon": 74.3886659
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:housenumber": "F9PQ+JC9",
+    "addr:street": "Sector D Dha Phase 1, Lahore, Pakistan",
+    "leisure": "park",
+    "name": "Sector D Park, Phase 1"
+  }
+},
+{
+  "type": "way",
+  "id": 1505965657,
+  "center": {
+    "lat": 31.5295084,
+    "lon": 74.3022519
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Zakria Park"
+  }
+}
+
+  ]
+}
